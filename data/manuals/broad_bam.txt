@@ -1,0 +1,28 @@
+broad_bam - Calibration and analysis of sequins alignments (.bam) in human whole genome sequencing workflow.
+
+<b>USAGE EXAMPLE:</b>
+$ anaquin broad_bam -b sample.bam
+
+<b>OPTIONS:</b>
+    Required
+        -b/--bam                        Alignments to co-index of human genome (hg38) and decoy chromosome (chrQ).
+    
+    Optional
+        -o/--output                     Directory to write output files to (default = output).
+        -r/--resource_dir               Directory containing resource files (default = resources).
+        --dilution                      Calibrate sequin alignments to specified count (eg 10000) or fraction (eg 0.01).
+                                        (default = sequins coverage is calibrated to match coverage of corresponding human genome.
+
+<b>OUTPUTS</b>
+    anaquin.log                             
+    report_bam.txt                      Summary statistics describing sequencing and alignment performance.
+    merged.bam                          Alignment file comprising both sample and (calibrated) sequin alignment.
+    sequins.bam                         Sequin-derived alignments (.BAM) to the decoy chromosome (no sample alignments).    
+    calibrated.bam                      Sequin-derived alignments that have been calibrated to match the coverage of corresponding human genome regions.
+
+<b>NOTE:</b>
+The broad_bam tool is the first step in the analysis of sequins in human WGS (second step uses broad_vcf). The broad_bam tool will:
+a. Accept a .BAM file containing human alignments (to hg38) as well as sequin alignments (to chrQ).
+b. Calibrate sequins alignment coverage (to chrQ) to match coverage corresponding human of corresponding human genome regions.
+c. The output calibrated .BAM file is then used as per normal in downstream variant-calling steps.
+d. Provide an output report with library details (including sequencing error, quantitative accuracy and copy-number variation).<<@@@@>>

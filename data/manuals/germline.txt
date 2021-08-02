@@ -1,0 +1,22 @@
+germline - Analysis of sequin germline variants on the decoy chromosome (chrQ*).
+
+<b>USAGE EXAMPLE:</b>
+$ anaquin germline -v variants.vcf
+
+<b>OPTIONS:</b>
+        -v/--vcf                        Variant annotations (.VCF) from sequin alignments to decoy chromosomes (.VCF may also include sample variants).
+        -o/--output                     Directory to write output files to (default = output).
+        -r/--resource_dir               Directory containing resource files (default = resources).
+        --edge                          Size (nt) of sequin terminal regions which should be ignored when assessing performance to avoid impact of
+                                        sequencing edge-effects (default = 550).
+        --restrict_regions              Supply custom annotation file (.BED) containing regions of interest in the human genome (e.g. gene panel targets).
+                                        Anaquin will limit analysis to the intersection of these regions with the sequin regions.    
+        --vcf_hg38                      Sequin variant file (.VCF) generated from sequin reads that have been mirrored (using split) and aligned to the
+                                        human genome (e.g. hg38). Use with --sample_variants.  
+
+<b>OUTPUTS</b>
+        anaquin.log                     Log file of anaquin processes.  
+        germline_report.txt             Summary statistics describing sequencing and alignment performance.
+        sequins_TP.vcf                  True positives of all variants found on the decoy chromosome (no sample variants).
+        sequins_FP.vcf                  False positives of all variants found on the decoy chromosome (no sample variants).
+        sequins_FN.vcf                  False negatives of all variants found on the decoy chromosome (no sample variants).<<@@@@>>

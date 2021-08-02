@@ -1,0 +1,1411 @@
+chrIS	144925	145141	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_1";
+chrIS	144925	2199400	R1_92	.	+	Sequin	gene	.	gene_id "R1_92"; gene_type "synthetic";
+chrIS	144925	2199400	R1_92	.	+	Sequin	transcript	.	gene_id "R1_92"; transcript_id "R1_92_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	151619	151736	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_1";
+chrIS	234952	235060	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_1";
+chrIS	642810	642840	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_1";
+chrIS	834174	834288	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_1";
+chrIS	1082117	1082439	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1082117	1239452	R2_24	.	-	Sequin	gene	.	gene_id "R2_24"; gene_type "synthetic";
+chrIS	1082117	1239452	R2_24	.	-	Sequin	transcript	.	gene_id "R2_24"; transcript_id "R2_24_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	1082118	1082439	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1082118	1160971	R2_24	.	-	Sequin	transcript	.	gene_id "R2_24"; transcript_id "R2_24_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	1084006	1084129	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1084006	1084129	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1091539	1091714	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1091539	1091714	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1114691	1114840	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1114691	1114840	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1122578	1122733	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1122578	1122733	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1123184	1123408	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1123184	1123408	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1124564	1124651	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1124564	1124651	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1130611	1130733	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1130611	1130733	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1138984	1139085	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1138984	1139085	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1140597	1140725	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1140597	1140725	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1141283	1141399	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1141283	1141399	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1144270	1144452	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1144270	1144452	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1144724	1144739	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1146820	1146966	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1146820	1146966	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1151783	1151957	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1151783	1151957	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1153238	1153331	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1153238	1153331	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1154783	1154900	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1154783	1154900	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1156111	1156291	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1156111	1156291	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1157345	1157423	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1157345	1157423	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1159841	1159948	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1159841	1159948	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1160764	1160971	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_2";
+chrIS	1163084	1163193	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1166112	1166229	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1171309	1171485	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1175695	1175779	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1177068	1177160	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1190807	1190841	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1191641	1191827	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1198654	1198734	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1239336	1239452	R2_24	.	-	Sequin	exon	.	gene_id "R2_24"; transcript_id "R2_24_1";
+chrIS	1379268	1379391	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_1";
+chrIS	1580733	1580767	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_1";
+chrIS	1635426	1635480	R2_6	.	+	Sequin	exon	.	gene_id "R2_6"; transcript_id "R2_6_1";
+chrIS	1635426	1638621	R2_6	.	+	Sequin	gene	.	gene_id "R2_6"; gene_type "synthetic";
+chrIS	1635426	1638621	R2_6	.	+	Sequin	transcript	.	gene_id "R2_6"; transcript_id "R2_6_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	1635701	1635820	R2_6	.	+	Sequin	exon	.	gene_id "R2_6"; transcript_id "R2_6_1";
+chrIS	1635701	1635820	R2_6	.	+	Sequin	exon	.	gene_id "R2_6"; transcript_id "R2_6_2";
+chrIS	1635701	1638309	R2_6	.	+	Sequin	transcript	.	gene_id "R2_6"; transcript_id "R2_6_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	1637937	1638122	R2_6	.	+	Sequin	exon	.	gene_id "R2_6"; transcript_id "R2_6_1";
+chrIS	1637937	1638309	R2_6	.	+	Sequin	exon	.	gene_id "R2_6"; transcript_id "R2_6_2";
+chrIS	1638433	1638621	R2_6	.	+	Sequin	exon	.	gene_id "R2_6"; transcript_id "R2_6_1";
+chrIS	1649105	1649178	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_1";
+chrIS	2012075	2012156	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_1";
+chrIS	2035093	2035141	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_1";
+chrIS	2082605	2082668	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_1";
+chrIS	2086805	2086875	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_1";
+chrIS	2116883	2116960	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_1";
+chrIS	2135118	2135293	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_2";
+chrIS	2135118	2199400	R1_92	.	+	Sequin	transcript	.	gene_id "R1_92"; transcript_id "R1_92_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2136057	2136132	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_1";
+chrIS	2136057	2136132	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_2";
+chrIS	2136396	2136489	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_1";
+chrIS	2136396	2136489	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_2";
+chrIS	2190531	2190609	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_1";
+chrIS	2190531	2190609	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_2";
+chrIS	2193901	2193970	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_2";
+chrIS	2199163	2199400	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_1";
+chrIS	2199163	2199400	R1_92	.	+	Sequin	exon	.	gene_id "R1_92"; transcript_id "R1_92_2";
+chrIS	2226971	2227517	R2_76	.	-	Sequin	exon	.	gene_id "R2_76"; transcript_id "R2_76_2";
+chrIS	2226971	2294540	R2_76	.	-	Sequin	transcript	.	gene_id "R2_76"; transcript_id "R2_76_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2226971	2294602	R2_76	.	-	Sequin	gene	.	gene_id "R2_76"; gene_type "synthetic";
+chrIS	2227011	2227517	R2_76	.	-	Sequin	exon	.	gene_id "R2_76"; transcript_id "R2_76_3";
+chrIS	2227011	2283228	R2_76	.	-	Sequin	transcript	.	gene_id "R2_76"; transcript_id "R2_76_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2227039	2227517	R2_76	.	-	Sequin	exon	.	gene_id "R2_76"; transcript_id "R2_76_1";
+chrIS	2227039	2294602	R2_76	.	-	Sequin	transcript	.	gene_id "R2_76"; transcript_id "R2_76_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2235700	2235729	R2_76	.	-	Sequin	exon	.	gene_id "R2_76"; transcript_id "R2_76_2";
+chrIS	2235700	2235729	R2_76	.	-	Sequin	exon	.	gene_id "R2_76"; transcript_id "R2_76_3";
+chrIS	2235700	2235729	R2_76	.	-	Sequin	exon	.	gene_id "R2_76"; transcript_id "R2_76_1";
+chrIS	2238020	2238070	R2_76	.	-	Sequin	exon	.	gene_id "R2_76"; transcript_id "R2_76_2";
+chrIS	2238020	2238070	R2_76	.	-	Sequin	exon	.	gene_id "R2_76"; transcript_id "R2_76_3";
+chrIS	2238020	2238070	R2_76	.	-	Sequin	exon	.	gene_id "R2_76"; transcript_id "R2_76_1";
+chrIS	2245193	2245253	R2_76	.	-	Sequin	exon	.	gene_id "R2_76"; transcript_id "R2_76_3";
+chrIS	2245193	2245253	R2_76	.	-	Sequin	exon	.	gene_id "R2_76"; transcript_id "R2_76_1";
+chrIS	2252439	2252615	R2_76	.	-	Sequin	exon	.	gene_id "R2_76"; transcript_id "R2_76_2";
+chrIS	2274605	2274720	R2_76	.	-	Sequin	exon	.	gene_id "R2_76"; transcript_id "R2_76_2";
+chrIS	2274605	2274720	R2_76	.	-	Sequin	exon	.	gene_id "R2_76"; transcript_id "R2_76_1";
+chrIS	2283051	2283228	R2_76	.	-	Sequin	exon	.	gene_id "R2_76"; transcript_id "R2_76_3";
+chrIS	2294426	2294540	R2_76	.	-	Sequin	exon	.	gene_id "R2_76"; transcript_id "R2_76_2";
+chrIS	2294426	2294602	R2_76	.	-	Sequin	exon	.	gene_id "R2_76"; transcript_id "R2_76_1";
+chrIS	2298169	2298310	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_1";
+chrIS	2298169	2304689	R2_73	.	+	Sequin	transcript	.	gene_id "R2_73"; transcript_id "R2_73_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2298169	2354936	R2_73	.	+	Sequin	gene	.	gene_id "R2_73"; gene_type "synthetic";
+chrIS	2298186	2298310	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2298186	2354936	R2_73	.	+	Sequin	transcript	.	gene_id "R2_73"; transcript_id "R2_73_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2298808	2299012	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_1";
+chrIS	2298808	2299117	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2304090	2304144	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2304090	2304689	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_1";
+chrIS	2305167	2305532	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2319441	2319640	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2321085	2321205	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2330814	2330938	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2331966	2332170	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2332295	2332412	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2332638	2332719	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2334176	2334287	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2336306	2336369	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2340481	2340580	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2342821	2342890	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2349699	2350203	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2350846	2350923	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2352226	2352542	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2353030	2353197	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2353572	2353640	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2354656	2354936	R2_73	.	+	Sequin	exon	.	gene_id "R2_73"; transcript_id "R2_73_2";
+chrIS	2379319	2380586	R2_72	.	-	Sequin	exon	.	gene_id "R2_72"; transcript_id "R2_72_2";
+chrIS	2379319	2380586	R2_72	.	-	Sequin	exon	.	gene_id "R2_72"; transcript_id "R2_72_1";
+chrIS	2379319	2386699	R2_72	.	-	Sequin	gene	.	gene_id "R2_72"; gene_type "synthetic";
+chrIS	2379319	2386699	R2_72	.	-	Sequin	transcript	.	gene_id "R2_72"; transcript_id "R2_72_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2379319	2386699	R2_72	.	-	Sequin	transcript	.	gene_id "R2_72"; transcript_id "R2_72_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2379819	2380586	R2_72	.	-	Sequin	exon	.	gene_id "R2_72"; transcript_id "R2_72_4";
+chrIS	2379819	2380586	R2_72	.	-	Sequin	exon	.	gene_id "R2_72"; transcript_id "R2_72_3";
+chrIS	2379819	2386699	R2_72	.	-	Sequin	transcript	.	gene_id "R2_72"; transcript_id "R2_72_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2379819	2386699	R2_72	.	-	Sequin	transcript	.	gene_id "R2_72"; transcript_id "R2_72_4"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2381452	2381737	R2_72	.	-	Sequin	exon	.	gene_id "R2_72"; transcript_id "R2_72_4";
+chrIS	2381452	2381737	R2_72	.	-	Sequin	exon	.	gene_id "R2_72"; transcript_id "R2_72_3";
+chrIS	2382196	2382463	R2_72	.	-	Sequin	exon	.	gene_id "R2_72"; transcript_id "R2_72_3";
+chrIS	2382758	2382911	R2_72	.	-	Sequin	exon	.	gene_id "R2_72"; transcript_id "R2_72_2";
+chrIS	2382758	2382911	R2_72	.	-	Sequin	exon	.	gene_id "R2_72"; transcript_id "R2_72_3";
+chrIS	2383178	2383196	R2_72	.	-	Sequin	exon	.	gene_id "R2_72"; transcript_id "R2_72_4";
+chrIS	2383178	2383196	R2_72	.	-	Sequin	exon	.	gene_id "R2_72"; transcript_id "R2_72_3";
+chrIS	2386327	2386699	R2_72	.	-	Sequin	exon	.	gene_id "R2_72"; transcript_id "R2_72_2";
+chrIS	2386327	2386699	R2_72	.	-	Sequin	exon	.	gene_id "R2_72"; transcript_id "R2_72_1";
+chrIS	2386327	2386699	R2_72	.	-	Sequin	exon	.	gene_id "R2_72"; transcript_id "R2_72_4";
+chrIS	2386327	2386699	R2_72	.	-	Sequin	exon	.	gene_id "R2_72"; transcript_id "R2_72_3";
+chrIS	2456890	2456935	R2_71	.	+	Sequin	exon	.	gene_id "R2_71"; transcript_id "R2_71_1";
+chrIS	2456890	2505699	R2_71	.	+	Sequin	gene	.	gene_id "R2_71"; gene_type "synthetic";
+chrIS	2456890	2505699	R2_71	.	+	Sequin	transcript	.	gene_id "R2_71"; transcript_id "R2_71_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2456897	2456935	R2_71	.	+	Sequin	exon	.	gene_id "R2_71"; transcript_id "R2_71_2";
+chrIS	2456897	2504943	R2_71	.	+	Sequin	transcript	.	gene_id "R2_71"; transcript_id "R2_71_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2466123	2466180	R2_71	.	+	Sequin	exon	.	gene_id "R2_71"; transcript_id "R2_71_1";
+chrIS	2470905	2471007	R2_71	.	+	Sequin	exon	.	gene_id "R2_71"; transcript_id "R2_71_1";
+chrIS	2483103	2483165	R2_71	.	+	Sequin	exon	.	gene_id "R2_71"; transcript_id "R2_71_1";
+chrIS	2483103	2483165	R2_71	.	+	Sequin	exon	.	gene_id "R2_71"; transcript_id "R2_71_2";
+chrIS	2499186	2499350	R2_71	.	+	Sequin	exon	.	gene_id "R2_71"; transcript_id "R2_71_2";
+chrIS	2504838	2504943	R2_71	.	+	Sequin	exon	.	gene_id "R2_71"; transcript_id "R2_71_2";
+chrIS	2504838	2505699	R2_71	.	+	Sequin	exon	.	gene_id "R2_71"; transcript_id "R2_71_1";
+chrIS	2529478	2530101	R2_7	.	-	Sequin	exon	.	gene_id "R2_7"; transcript_id "R2_7_2";
+chrIS	2529478	2556327	R2_7	.	-	Sequin	gene	.	gene_id "R2_7"; gene_type "synthetic";
+chrIS	2529478	2556327	R2_7	.	-	Sequin	transcript	.	gene_id "R2_7"; transcript_id "R2_7_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2541035	2541136	R2_7	.	-	Sequin	exon	.	gene_id "R2_7"; transcript_id "R2_7_2";
+chrIS	2543832	2544003	R2_7	.	-	Sequin	exon	.	gene_id "R2_7"; transcript_id "R2_7_2";
+chrIS	2545554	2545634	R2_7	.	-	Sequin	exon	.	gene_id "R2_7"; transcript_id "R2_7_2";
+chrIS	2547607	2547796	R2_7	.	-	Sequin	exon	.	gene_id "R2_7"; transcript_id "R2_7_2";
+chrIS	2553117	2553188	R2_7	.	-	Sequin	exon	.	gene_id "R2_7"; transcript_id "R2_7_1";
+chrIS	2553117	2556327	R2_7	.	-	Sequin	transcript	.	gene_id "R2_7"; transcript_id "R2_7_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2554763	2554890	R2_7	.	-	Sequin	exon	.	gene_id "R2_7"; transcript_id "R2_7_2";
+chrIS	2554763	2554890	R2_7	.	-	Sequin	exon	.	gene_id "R2_7"; transcript_id "R2_7_1";
+chrIS	2555890	2556327	R2_7	.	-	Sequin	exon	.	gene_id "R2_7"; transcript_id "R2_7_2";
+chrIS	2555890	2556327	R2_7	.	-	Sequin	exon	.	gene_id "R2_7"; transcript_id "R2_7_1";
+chrIS	2567183	2567269	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_1";
+chrIS	2567183	2622471	R2_68	.	+	Sequin	transcript	.	gene_id "R2_68"; transcript_id "R2_68_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2567183	2623909	R2_68	.	+	Sequin	gene	.	gene_id "R2_68"; gene_type "synthetic";
+chrIS	2567553	2567790	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_1";
+chrIS	2575076	2575188	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_1";
+chrIS	2599318	2599880	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_1";
+chrIS	2611160	2611257	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_2";
+chrIS	2611160	2623909	R2_68	.	+	Sequin	transcript	.	gene_id "R2_68"; transcript_id "R2_68_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2614432	2614514	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_2";
+chrIS	2615222	2615379	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_1";
+chrIS	2615222	2615379	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_2";
+chrIS	2619008	2619134	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_1";
+chrIS	2619008	2619134	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_2";
+chrIS	2619410	2619581	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_1";
+chrIS	2619410	2619581	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_2";
+chrIS	2619792	2619918	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_1";
+chrIS	2619792	2619918	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_2";
+chrIS	2620506	2620727	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_1";
+chrIS	2620506	2620727	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_2";
+chrIS	2620819	2621042	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_1";
+chrIS	2620819	2621042	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_2";
+chrIS	2621526	2621634	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_1";
+chrIS	2621526	2621634	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_2";
+chrIS	2621718	2621838	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_1";
+chrIS	2621718	2621838	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_2";
+chrIS	2622259	2622349	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_2";
+chrIS	2622259	2622471	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_1";
+chrIS	2623093	2623363	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_2";
+chrIS	2623685	2623909	R2_68	.	+	Sequin	exon	.	gene_id "R2_68"; transcript_id "R2_68_2";
+chrIS	2707443	2707532	R2_67	.	+	Sequin	exon	.	gene_id "R2_67"; transcript_id "R2_67_1";
+chrIS	2707443	2709121	R2_67	.	+	Sequin	gene	.	gene_id "R2_67"; gene_type "synthetic";
+chrIS	2707443	2709121	R2_67	.	+	Sequin	transcript	.	gene_id "R2_67"; transcript_id "R2_67_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2708687	2709121	R2_67	.	+	Sequin	exon	.	gene_id "R2_67"; transcript_id "R2_67_1";
+chrIS	2936138	2936213	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_1";
+chrIS	2936138	2936636	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_2";
+chrIS	2936138	2939299	R1_52	.	-	Sequin	gene	.	gene_id "R1_52"; gene_type "synthetic";
+chrIS	2936138	2939299	R1_52	.	-	Sequin	transcript	.	gene_id "R1_52"; transcript_id "R1_52_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2936138	2939299	R1_52	.	-	Sequin	transcript	.	gene_id "R1_52"; transcript_id "R1_52_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2936414	2936492	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_1";
+chrIS	2936570	2936636	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_1";
+chrIS	2936765	2936858	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_2";
+chrIS	2936765	2936858	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_1";
+chrIS	2936981	2937110	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_2";
+chrIS	2936981	2937110	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_1";
+chrIS	2937522	2937665	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_2";
+chrIS	2937522	2937665	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_1";
+chrIS	2937762	2937844	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_2";
+chrIS	2937762	2937844	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_1";
+chrIS	2938014	2938075	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_1";
+chrIS	2938014	2938111	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_2";
+chrIS	2938190	2938267	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_2";
+chrIS	2938190	2938267	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_1";
+chrIS	2938361	2938432	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_2";
+chrIS	2938536	2938672	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_2";
+chrIS	2938536	2938672	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_1";
+chrIS	2939121	2939299	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_2";
+chrIS	2939121	2939299	R1_52	.	-	Sequin	exon	.	gene_id "R1_52"; transcript_id "R1_52_1";
+chrIS	2972191	2972738	R2_117	.	-	Sequin	exon	.	gene_id "R2_117"; transcript_id "R2_117_1";
+chrIS	2972191	2986595	R2_117	.	-	Sequin	gene	.	gene_id "R2_117"; gene_type "synthetic";
+chrIS	2972191	2986595	R2_117	.	-	Sequin	transcript	.	gene_id "R2_117"; transcript_id "R2_117_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2972241	2972738	R2_117	.	-	Sequin	exon	.	gene_id "R2_117"; transcript_id "R2_117_3";
+chrIS	2972241	2986567	R2_117	.	-	Sequin	transcript	.	gene_id "R2_117"; transcript_id "R2_117_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	2973595	2973658	R2_117	.	-	Sequin	exon	.	gene_id "R2_117"; transcript_id "R2_117_1";
+chrIS	2973595	2973658	R2_117	.	-	Sequin	exon	.	gene_id "R2_117"; transcript_id "R2_117_3";
+chrIS	2975750	2976023	R2_117	.	-	Sequin	exon	.	gene_id "R2_117"; transcript_id "R2_117_3";
+chrIS	2977329	2977650	R2_117	.	-	Sequin	exon	.	gene_id "R2_117"; transcript_id "R2_117_1";
+chrIS	2986487	2986567	R2_117	.	-	Sequin	exon	.	gene_id "R2_117"; transcript_id "R2_117_3";
+chrIS	2986487	2986595	R2_117	.	-	Sequin	exon	.	gene_id "R2_117"; transcript_id "R2_117_1";
+chrIS	3000315	3001061	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3000315	3021399	R2_47	.	+	Sequin	gene	.	gene_id "R2_47"; gene_type "synthetic";
+chrIS	3000315	3021399	R2_47	.	+	Sequin	transcript	.	gene_id "R2_47"; transcript_id "R2_47_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	3002793	3003530	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3009696	3009837	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3009936	3010078	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3010186	3010353	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3010571	3010692	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3010778	3010926	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3011353	3011535	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3011618	3011645	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3011837	3011972	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3012122	3012266	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3013625	3013706	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3014252	3014390	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3014542	3014639	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3017645	3017698	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3019315	3020018	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_2";
+chrIS	3019315	3021129	R2_47	.	+	Sequin	transcript	.	gene_id "R2_47"; transcript_id "R2_47_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	3019951	3020018	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3020100	3020159	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3020100	3020159	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_2";
+chrIS	3020306	3020396	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3020306	3020396	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_2";
+chrIS	3020691	3020873	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3020691	3020873	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_2";
+chrIS	3020962	3021129	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_2";
+chrIS	3020962	3021399	R2_47	.	+	Sequin	exon	.	gene_id "R2_47"; transcript_id "R2_47_1";
+chrIS	3253315	3253554	R2_55	.	+	Sequin	exon	.	gene_id "R2_55"; transcript_id "R2_55_2";
+chrIS	3253315	3314193	R2_55	.	+	Sequin	transcript	.	gene_id "R2_55"; transcript_id "R2_55_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	3253315	3335652	R2_55	.	+	Sequin	gene	.	gene_id "R2_55"; gene_type "synthetic";
+chrIS	3253326	3253498	R2_55	.	+	Sequin	exon	.	gene_id "R2_55"; transcript_id "R2_55_3";
+chrIS	3253326	3335652	R2_55	.	+	Sequin	transcript	.	gene_id "R2_55"; transcript_id "R2_55_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	3254620	3254694	R2_55	.	+	Sequin	exon	.	gene_id "R2_55"; transcript_id "R2_55_3";
+chrIS	3309013	3309208	R2_55	.	+	Sequin	exon	.	gene_id "R2_55"; transcript_id "R2_55_2";
+chrIS	3313966	3314193	R2_55	.	+	Sequin	exon	.	gene_id "R2_55"; transcript_id "R2_55_2";
+chrIS	3332080	3332196	R2_55	.	+	Sequin	exon	.	gene_id "R2_55"; transcript_id "R2_55_3";
+chrIS	3333673	3333831	R2_55	.	+	Sequin	exon	.	gene_id "R2_55"; transcript_id "R2_55_3";
+chrIS	3335390	3335652	R2_55	.	+	Sequin	exon	.	gene_id "R2_55"; transcript_id "R2_55_3";
+chrIS	3621203	3621284	R2_33	.	+	Sequin	exon	.	gene_id "R2_33"; transcript_id "R2_33_1";
+chrIS	3621203	3625960	R2_33	.	+	Sequin	gene	.	gene_id "R2_33"; gene_type "synthetic";
+chrIS	3621203	3625960	R2_33	.	+	Sequin	transcript	.	gene_id "R2_33"; transcript_id "R2_33_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	3625758	3625960	R2_33	.	+	Sequin	exon	.	gene_id "R2_33"; transcript_id "R2_33_1";
+chrIS	3762243	3762414	R1_31	.	+	Sequin	exon	.	gene_id "R1_31"; transcript_id "R1_31_2";
+chrIS	3762243	3762414	R1_31	.	+	Sequin	exon	.	gene_id "R1_31"; transcript_id "R1_31_1";
+chrIS	3762243	3794118	R1_31	.	+	Sequin	gene	.	gene_id "R1_31"; gene_type "synthetic";
+chrIS	3762243	3794118	R1_31	.	+	Sequin	transcript	.	gene_id "R1_31"; transcript_id "R1_31_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	3762243	3794118	R1_31	.	+	Sequin	transcript	.	gene_id "R1_31"; transcript_id "R1_31_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	3765664	3765776	R1_31	.	+	Sequin	exon	.	gene_id "R1_31"; transcript_id "R1_31_2";
+chrIS	3766592	3766770	R1_31	.	+	Sequin	exon	.	gene_id "R1_31"; transcript_id "R1_31_2";
+chrIS	3767612	3767833	R1_31	.	+	Sequin	exon	.	gene_id "R1_31"; transcript_id "R1_31_2";
+chrIS	3769405	3769575	R1_31	.	+	Sequin	exon	.	gene_id "R1_31"; transcript_id "R1_31_2";
+chrIS	3769405	3769575	R1_31	.	+	Sequin	exon	.	gene_id "R1_31"; transcript_id "R1_31_1";
+chrIS	3777278	3777367	R1_31	.	+	Sequin	exon	.	gene_id "R1_31"; transcript_id "R1_31_2";
+chrIS	3777278	3777367	R1_31	.	+	Sequin	exon	.	gene_id "R1_31"; transcript_id "R1_31_1";
+chrIS	3779731	3779805	R1_31	.	+	Sequin	exon	.	gene_id "R1_31"; transcript_id "R1_31_2";
+chrIS	3784211	3784371	R1_31	.	+	Sequin	exon	.	gene_id "R1_31"; transcript_id "R1_31_2";
+chrIS	3789500	3789560	R1_31	.	+	Sequin	exon	.	gene_id "R1_31"; transcript_id "R1_31_2";
+chrIS	3792663	3792748	R1_31	.	+	Sequin	exon	.	gene_id "R1_31"; transcript_id "R1_31_2";
+chrIS	3792663	3792748	R1_31	.	+	Sequin	exon	.	gene_id "R1_31"; transcript_id "R1_31_1";
+chrIS	3793972	3794118	R1_31	.	+	Sequin	exon	.	gene_id "R1_31"; transcript_id "R1_31_2";
+chrIS	3793972	3794118	R1_31	.	+	Sequin	exon	.	gene_id "R1_31"; transcript_id "R1_31_1";
+chrIS	3930109	3930311	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_2";
+chrIS	3930109	3940292	R1_33	.	+	Sequin	transcript	.	gene_id "R1_33"; transcript_id "R1_33_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	3930109	4030333	R1_33	.	+	Sequin	gene	.	gene_id "R1_33"; gene_type "synthetic";
+chrIS	3930243	3930311	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	3930243	4030333	R1_33	.	+	Sequin	transcript	.	gene_id "R1_33"; transcript_id "R1_33_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	3934002	3934172	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_2";
+chrIS	3934002	3934172	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	3934903	3934940	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_2";
+chrIS	3934903	3934940	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	3939679	3940292	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_2";
+chrIS	3964838	3965000	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	3966323	3966404	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	3966508	3966604	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	3966712	3966830	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	3968589	3968656	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	3987946	3988081	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	3990035	3990137	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	3991835	3991972	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	3992081	3992175	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	3993287	3993417	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	3994204	3994301	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	3996987	3997068	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	3998393	3998496	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	4010232	4010293	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	4016746	4016865	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	4018335	4018470	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	4018576	4018642	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	4021961	4022056	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	4022379	4022456	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	4030203	4030333	R1_33	.	+	Sequin	exon	.	gene_id "R1_33"; transcript_id "R1_33_1";
+chrIS	4049798	4050293	R1_32	.	-	Sequin	exon	.	gene_id "R1_32"; transcript_id "R1_32_2";
+chrIS	4049798	4050293	R1_32	.	-	Sequin	exon	.	gene_id "R1_32"; transcript_id "R1_32_1";
+chrIS	4049798	4057886	R1_32	.	-	Sequin	gene	.	gene_id "R1_32"; gene_type "synthetic";
+chrIS	4049798	4057886	R1_32	.	-	Sequin	transcript	.	gene_id "R1_32"; transcript_id "R1_32_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4049798	4057886	R1_32	.	-	Sequin	transcript	.	gene_id "R1_32"; transcript_id "R1_32_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4051177	4051338	R1_32	.	-	Sequin	exon	.	gene_id "R1_32"; transcript_id "R1_32_1";
+chrIS	4054301	4054511	R1_32	.	-	Sequin	exon	.	gene_id "R1_32"; transcript_id "R1_32_2";
+chrIS	4054301	4054511	R1_32	.	-	Sequin	exon	.	gene_id "R1_32"; transcript_id "R1_32_1";
+chrIS	4057808	4057886	R1_32	.	-	Sequin	exon	.	gene_id "R1_32"; transcript_id "R1_32_2";
+chrIS	4057808	4057886	R1_32	.	-	Sequin	exon	.	gene_id "R1_32"; transcript_id "R1_32_1";
+chrIS	4100465	4100769	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4100465	4139266	R1_24	.	-	Sequin	gene	.	gene_id "R1_24"; gene_type "synthetic";
+chrIS	4100465	4139266	R1_24	.	-	Sequin	transcript	.	gene_id "R1_24"; transcript_id "R1_24_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4101674	4101751	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4101878	4102201	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4102307	4102463	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4102554	4102790	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4103042	4103157	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4104245	4104386	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4104525	4104724	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4105691	4105787	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4106581	4106724	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4107087	4107235	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4107318	4107442	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4107663	4107780	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4107881	4108025	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4108394	4108474	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4108923	4109001	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4109142	4109228	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4109349	4109390	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4109478	4109592	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4109758	4109891	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4111656	4111738	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4111931	4112006	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4116809	4116864	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4117581	4117680	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4119182	4119261	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4119345	4119385	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4123436	4123589	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4124907	4124973	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4129975	4130060	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4131449	4131525	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4134639	4134700	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4134901	4134984	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4135586	4135680	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4136033	4136230	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4138023	4138296	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4139062	4139266	R1_24	.	-	Sequin	exon	.	gene_id "R1_24"; transcript_id "R1_24_1";
+chrIS	4144390	4145330	R2_46	.	-	Sequin	exon	.	gene_id "R2_46"; transcript_id "R2_46_1";
+chrIS	4144390	4148312	R2_46	.	-	Sequin	gene	.	gene_id "R2_46"; gene_type "synthetic";
+chrIS	4144390	4148312	R2_46	.	-	Sequin	transcript	.	gene_id "R2_46"; transcript_id "R2_46_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4144824	4145330	R2_46	.	-	Sequin	exon	.	gene_id "R2_46"; transcript_id "R2_46_3";
+chrIS	4144824	4146273	R2_46	.	-	Sequin	transcript	.	gene_id "R2_46"; transcript_id "R2_46_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4145286	4145563	R2_46	.	-	Sequin	exon	.	gene_id "R2_46"; transcript_id "R2_46_2";
+chrIS	4145286	4147434	R2_46	.	-	Sequin	transcript	.	gene_id "R2_46"; transcript_id "R2_46_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4145400	4145539	R2_46	.	-	Sequin	exon	.	gene_id "R2_46"; transcript_id "R2_46_1";
+chrIS	4145400	4145539	R2_46	.	-	Sequin	exon	.	gene_id "R2_46"; transcript_id "R2_46_3";
+chrIS	4145915	4145977	R2_46	.	-	Sequin	exon	.	gene_id "R2_46"; transcript_id "R2_46_2";
+chrIS	4145915	4146042	R2_46	.	-	Sequin	exon	.	gene_id "R2_46"; transcript_id "R2_46_1";
+chrIS	4145915	4146273	R2_46	.	-	Sequin	exon	.	gene_id "R2_46"; transcript_id "R2_46_3";
+chrIS	4147371	4147434	R2_46	.	-	Sequin	exon	.	gene_id "R2_46"; transcript_id "R2_46_2";
+chrIS	4147371	4147520	R2_46	.	-	Sequin	exon	.	gene_id "R2_46"; transcript_id "R2_46_1";
+chrIS	4147746	4148312	R2_46	.	-	Sequin	exon	.	gene_id "R2_46"; transcript_id "R2_46_1";
+chrIS	4159998	4160177	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_1";
+chrIS	4159998	4239436	R2_45	.	+	Sequin	transcript	.	gene_id "R2_45"; transcript_id "R2_45_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4159998	4239513	R2_45	.	+	Sequin	gene	.	gene_id "R2_45"; gene_type "synthetic";
+chrIS	4160322	4160510	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_2";
+chrIS	4160322	4239416	R2_45	.	+	Sequin	transcript	.	gene_id "R2_45"; transcript_id "R2_45_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4163915	4164055	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_2";
+chrIS	4177666	4177926	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_3";
+chrIS	4177666	4239513	R2_45	.	+	Sequin	transcript	.	gene_id "R2_45"; transcript_id "R2_45_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4180707	4180779	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_2";
+chrIS	4189915	4190014	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_2";
+chrIS	4191517	4191584	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_2";
+chrIS	4191998	4192102	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_2";
+chrIS	4203624	4204060	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_4";
+chrIS	4203624	4239403	R2_45	.	+	Sequin	transcript	.	gene_id "R2_45"; transcript_id "R2_45_4"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4207145	4207258	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_1";
+chrIS	4207145	4207258	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_2";
+chrIS	4207145	4207258	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_3";
+chrIS	4207145	4207258	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_4";
+chrIS	4215843	4215915	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_1";
+chrIS	4215843	4215915	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_2";
+chrIS	4215843	4215915	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_3";
+chrIS	4215843	4215915	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_4";
+chrIS	4217882	4217996	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_2";
+chrIS	4217882	4217996	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_3";
+chrIS	4217882	4217996	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_4";
+chrIS	4221460	4221556	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_1";
+chrIS	4221460	4221556	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_2";
+chrIS	4221460	4221556	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_3";
+chrIS	4221460	4221556	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_4";
+chrIS	4226430	4226604	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_1";
+chrIS	4226430	4226604	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_2";
+chrIS	4226430	4226604	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_3";
+chrIS	4226430	4226604	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_4";
+chrIS	4231197	4231356	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_1";
+chrIS	4231197	4231356	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_3";
+chrIS	4231197	4231356	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_4";
+chrIS	4231299	4231356	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_2";
+chrIS	4234905	4235013	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_1";
+chrIS	4234905	4235013	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_2";
+chrIS	4234905	4235013	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_3";
+chrIS	4234905	4235013	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_4";
+chrIS	4237665	4237725	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_1";
+chrIS	4237665	4237725	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_2";
+chrIS	4237665	4237725	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_3";
+chrIS	4237665	4237725	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_4";
+chrIS	4238706	4239513	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_3";
+chrIS	4239018	4239403	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_4";
+chrIS	4239018	4239416	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_2";
+chrIS	4239018	4239436	R2_45	.	+	Sequin	exon	.	gene_id "R2_45"; transcript_id "R2_45_1";
+chrIS	4304595	4304946	R2_41	.	-	Sequin	exon	.	gene_id "R2_41"; transcript_id "R2_41_1";
+chrIS	4304595	4343877	R2_41	.	-	Sequin	gene	.	gene_id "R2_41"; gene_type "synthetic";
+chrIS	4304595	4343877	R2_41	.	-	Sequin	transcript	.	gene_id "R2_41"; transcript_id "R2_41_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4306873	4307088	R2_41	.	-	Sequin	exon	.	gene_id "R2_41"; transcript_id "R2_41_1";
+chrIS	4323096	4323157	R2_41	.	-	Sequin	exon	.	gene_id "R2_41"; transcript_id "R2_41_2";
+chrIS	4323096	4342740	R2_41	.	-	Sequin	transcript	.	gene_id "R2_41"; transcript_id "R2_41_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4326810	4326923	R2_41	.	-	Sequin	exon	.	gene_id "R2_41"; transcript_id "R2_41_1";
+chrIS	4326810	4326923	R2_41	.	-	Sequin	exon	.	gene_id "R2_41"; transcript_id "R2_41_2";
+chrIS	4328120	4328283	R2_41	.	-	Sequin	exon	.	gene_id "R2_41"; transcript_id "R2_41_1";
+chrIS	4328120	4328283	R2_41	.	-	Sequin	exon	.	gene_id "R2_41"; transcript_id "R2_41_2";
+chrIS	4330276	4330442	R2_41	.	-	Sequin	exon	.	gene_id "R2_41"; transcript_id "R2_41_1";
+chrIS	4331573	4331708	R2_41	.	-	Sequin	exon	.	gene_id "R2_41"; transcript_id "R2_41_1";
+chrIS	4332767	4332940	R2_41	.	-	Sequin	exon	.	gene_id "R2_41"; transcript_id "R2_41_1";
+chrIS	4340862	4341036	R2_41	.	-	Sequin	exon	.	gene_id "R2_41"; transcript_id "R2_41_1";
+chrIS	4340862	4341036	R2_41	.	-	Sequin	exon	.	gene_id "R2_41"; transcript_id "R2_41_2";
+chrIS	4342635	4342740	R2_41	.	-	Sequin	exon	.	gene_id "R2_41"; transcript_id "R2_41_2";
+chrIS	4342635	4342812	R2_41	.	-	Sequin	exon	.	gene_id "R2_41"; transcript_id "R2_41_1";
+chrIS	4343177	4343389	R2_41	.	-	Sequin	exon	.	gene_id "R2_41"; transcript_id "R2_41_1";
+chrIS	4343481	4343602	R2_41	.	-	Sequin	exon	.	gene_id "R2_41"; transcript_id "R2_41_1";
+chrIS	4343695	4343877	R2_41	.	-	Sequin	exon	.	gene_id "R2_41"; transcript_id "R2_41_1";
+chrIS	4350009	4350798	R2_63	.	+	Sequin	exon	.	gene_id "R2_63"; transcript_id "R2_63_1";
+chrIS	4350009	4352444	R2_63	.	+	Sequin	transcript	.	gene_id "R2_63"; transcript_id "R2_63_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4350009	4387303	R2_63	.	+	Sequin	gene	.	gene_id "R2_63"; gene_type "synthetic";
+chrIS	4350623	4350798	R2_63	.	+	Sequin	exon	.	gene_id "R2_63"; transcript_id "R2_63_3";
+chrIS	4350623	4387303	R2_63	.	+	Sequin	transcript	.	gene_id "R2_63"; transcript_id "R2_63_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4351662	4352444	R2_63	.	+	Sequin	exon	.	gene_id "R2_63"; transcript_id "R2_63_1";
+chrIS	4351741	4351824	R2_63	.	+	Sequin	exon	.	gene_id "R2_63"; transcript_id "R2_63_3";
+chrIS	4386849	4387303	R2_63	.	+	Sequin	exon	.	gene_id "R2_63"; transcript_id "R2_63_3";
+chrIS	4485879	4486727	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_2";
+chrIS	4485879	4497031	R2_37	.	-	Sequin	transcript	.	gene_id "R2_37"; transcript_id "R2_37_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4485879	4497051	R2_37	.	-	Sequin	gene	.	gene_id "R2_37"; gene_type "synthetic";
+chrIS	4486810	4486856	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_2";
+chrIS	4487689	4487813	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_2";
+chrIS	4488080	4488126	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_2";
+chrIS	4488225	4488415	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_2";
+chrIS	4488529	4488680	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_2";
+chrIS	4488531	4488680	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_3";
+chrIS	4488531	4497028	R2_37	.	-	Sequin	transcript	.	gene_id "R2_37"; transcript_id "R2_37_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4488764	4488888	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_2";
+chrIS	4488764	4488888	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_3";
+chrIS	4489990	4490105	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_2";
+chrIS	4489990	4490417	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_3";
+chrIS	4490324	4490417	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_2";
+chrIS	4492605	4493278	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_1";
+chrIS	4492605	4497051	R2_37	.	-	Sequin	transcript	.	gene_id "R2_37"; transcript_id "R2_37_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4494298	4494362	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_2";
+chrIS	4494298	4494362	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_1";
+chrIS	4496107	4496432	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_2";
+chrIS	4496107	4496432	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_3";
+chrIS	4496107	4496432	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_1";
+chrIS	4496970	4497028	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_3";
+chrIS	4496970	4497031	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_2";
+chrIS	4496970	4497051	R2_37	.	-	Sequin	exon	.	gene_id "R2_37"; transcript_id "R2_37_1";
+chrIS	4554813	4555021	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_1";
+chrIS	4554813	5145080	R2_53	.	+	Sequin	transcript	.	gene_id "R2_53"; transcript_id "R2_53_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4554813	5145117	R2_53	.	+	Sequin	gene	.	gene_id "R2_53"; gene_type "synthetic";
+chrIS	4771416	4771602	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_2";
+chrIS	4771416	5145117	R2_53	.	+	Sequin	transcript	.	gene_id "R2_53"; transcript_id "R2_53_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4772277	4772373	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_3";
+chrIS	4772277	5145079	R2_53	.	+	Sequin	transcript	.	gene_id "R2_53"; transcript_id "R2_53_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	4772315	4772373	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_2";
+chrIS	4777703	4778235	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_1";
+chrIS	4777703	4778235	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_2";
+chrIS	4777703	4778235	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_3";
+chrIS	4967074	4967140	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_1";
+chrIS	4967074	4967140	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_2";
+chrIS	4967074	4967140	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_3";
+chrIS	5022066	5022141	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_1";
+chrIS	5022066	5022141	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_2";
+chrIS	5022066	5022141	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_3";
+chrIS	5042004	5042122	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_1";
+chrIS	5042004	5042122	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_2";
+chrIS	5042004	5042122	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_3";
+chrIS	5048701	5048829	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_1";
+chrIS	5048701	5048829	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_2";
+chrIS	5048701	5048829	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_3";
+chrIS	5072791	5072920	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_1";
+chrIS	5072791	5072920	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_2";
+chrIS	5093658	5093837	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_1";
+chrIS	5093658	5093837	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_2";
+chrIS	5093658	5093837	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_3";
+chrIS	5096116	5096282	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_1";
+chrIS	5096116	5096282	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_2";
+chrIS	5096116	5096282	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_3";
+chrIS	5116019	5116111	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_1";
+chrIS	5116019	5116111	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_2";
+chrIS	5116019	5116111	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_3";
+chrIS	5144857	5145079	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_3";
+chrIS	5144857	5145080	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_1";
+chrIS	5144857	5145117	R2_53	.	+	Sequin	exon	.	gene_id "R2_53"; transcript_id "R2_53_2";
+chrIS	5187407	5187504	R2_42	.	+	Sequin	exon	.	gene_id "R2_42"; transcript_id "R2_42_1";
+chrIS	5187407	5203913	R2_42	.	+	Sequin	gene	.	gene_id "R2_42"; gene_type "synthetic";
+chrIS	5187407	5203913	R2_42	.	+	Sequin	transcript	.	gene_id "R2_42"; transcript_id "R2_42_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5187657	5187792	R2_42	.	+	Sequin	exon	.	gene_id "R2_42"; transcript_id "R2_42_1";
+chrIS	5188651	5188949	R2_42	.	+	Sequin	exon	.	gene_id "R2_42"; transcript_id "R2_42_2";
+chrIS	5188651	5192222	R2_42	.	+	Sequin	transcript	.	gene_id "R2_42"; transcript_id "R2_42_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5189005	5189463	R2_42	.	+	Sequin	exon	.	gene_id "R2_42"; transcript_id "R2_42_3";
+chrIS	5189005	5192102	R2_42	.	+	Sequin	transcript	.	gene_id "R2_42"; transcript_id "R2_42_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5189326	5189463	R2_42	.	+	Sequin	exon	.	gene_id "R2_42"; transcript_id "R2_42_1";
+chrIS	5189326	5189463	R2_42	.	+	Sequin	exon	.	gene_id "R2_42"; transcript_id "R2_42_2";
+chrIS	5192002	5192102	R2_42	.	+	Sequin	exon	.	gene_id "R2_42"; transcript_id "R2_42_3";
+chrIS	5192002	5192222	R2_42	.	+	Sequin	exon	.	gene_id "R2_42"; transcript_id "R2_42_2";
+chrIS	5193920	5194047	R2_42	.	+	Sequin	exon	.	gene_id "R2_42"; transcript_id "R2_42_1";
+chrIS	5196624	5196805	R2_42	.	+	Sequin	exon	.	gene_id "R2_42"; transcript_id "R2_42_1";
+chrIS	5200617	5200689	R2_42	.	+	Sequin	exon	.	gene_id "R2_42"; transcript_id "R2_42_1";
+chrIS	5203024	5203269	R2_42	.	+	Sequin	exon	.	gene_id "R2_42"; transcript_id "R2_42_1";
+chrIS	5203540	5203913	R2_42	.	+	Sequin	exon	.	gene_id "R2_42"; transcript_id "R2_42_1";
+chrIS	5289117	5289365	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_2";
+chrIS	5289117	5289365	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_1";
+chrIS	5289117	5304973	R2_38	.	+	Sequin	transcript	.	gene_id "R2_38"; transcript_id "R2_38_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5289117	5304973	R2_38	.	+	Sequin	transcript	.	gene_id "R2_38"; transcript_id "R2_38_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5289117	5304997	R2_38	.	+	Sequin	gene	.	gene_id "R2_38"; gene_type "synthetic";
+chrIS	5290387	5290451	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_3";
+chrIS	5290387	5304997	R2_38	.	+	Sequin	transcript	.	gene_id "R2_38"; transcript_id "R2_38_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5290390	5290451	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_4";
+chrIS	5290390	5304973	R2_38	.	+	Sequin	transcript	.	gene_id "R2_38"; transcript_id "R2_38_4"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5296917	5297057	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_2";
+chrIS	5296917	5297057	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_1";
+chrIS	5296917	5297057	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_3";
+chrIS	5296917	5297057	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_4";
+chrIS	5298508	5298643	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_3";
+chrIS	5301020	5301113	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_3";
+chrIS	5301020	5301254	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_1";
+chrIS	5301965	5302130	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_2";
+chrIS	5301965	5302130	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_3";
+chrIS	5301965	5302130	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_4";
+chrIS	5304722	5304997	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_3";
+chrIS	5304766	5304973	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_2";
+chrIS	5304766	5304973	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_1";
+chrIS	5304766	5304973	R2_38	.	+	Sequin	exon	.	gene_id "R2_38"; transcript_id "R2_38_4";
+chrIS	5317753	5317814	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_1";
+chrIS	5317753	5334003	R2_32	.	+	Sequin	transcript	.	gene_id "R2_32"; transcript_id "R2_32_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5317753	5354811	R2_32	.	+	Sequin	gene	.	gene_id "R2_32"; gene_type "synthetic";
+chrIS	5317776	5317814	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_2";
+chrIS	5317776	5354811	R2_32	.	+	Sequin	transcript	.	gene_id "R2_32"; transcript_id "R2_32_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5317779	5317814	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_3";
+chrIS	5317779	5333614	R2_32	.	+	Sequin	transcript	.	gene_id "R2_32"; transcript_id "R2_32_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5318328	5318446	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_1";
+chrIS	5318328	5318446	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_2";
+chrIS	5318328	5318446	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_3";
+chrIS	5323605	5323722	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_1";
+chrIS	5323605	5323722	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_2";
+chrIS	5323605	5323722	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_3";
+chrIS	5328168	5328311	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_1";
+chrIS	5328168	5328311	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_2";
+chrIS	5328168	5328311	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_3";
+chrIS	5331753	5331870	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_1";
+chrIS	5331753	5331870	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_2";
+chrIS	5331753	5331870	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_3";
+chrIS	5332996	5333098	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_1";
+chrIS	5332996	5333614	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_3";
+chrIS	5333793	5334003	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_1";
+chrIS	5343228	5343343	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_2";
+chrIS	5345474	5345582	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_2";
+chrIS	5354332	5354811	R2_32	.	+	Sequin	exon	.	gene_id "R2_32"; transcript_id "R2_32_2";
+chrIS	5389912	5390208	R2_28	.	+	Sequin	exon	.	gene_id "R2_28"; transcript_id "R2_28_1";
+chrIS	5389912	5392534	R2_28	.	+	Sequin	gene	.	gene_id "R2_28"; gene_type "synthetic";
+chrIS	5389912	5392534	R2_28	.	+	Sequin	transcript	.	gene_id "R2_28"; transcript_id "R2_28_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5389930	5392477	R2_28	.	+	Sequin	transcript	.	gene_id "R2_28"; transcript_id "R2_28_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5389930	5392477	R2_28	.	+	Sequin	exon	.	gene_id "R2_28"; transcript_id "R2_28_2";
+chrIS	5389944	5390208	R2_28	.	+	Sequin	exon	.	gene_id "R2_28"; transcript_id "R2_28_3";
+chrIS	5389944	5392478	R2_28	.	+	Sequin	transcript	.	gene_id "R2_28"; transcript_id "R2_28_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5391833	5391904	R2_28	.	+	Sequin	exon	.	gene_id "R2_28"; transcript_id "R2_28_3";
+chrIS	5391833	5392534	R2_28	.	+	Sequin	exon	.	gene_id "R2_28"; transcript_id "R2_28_1";
+chrIS	5392207	5392478	R2_28	.	+	Sequin	exon	.	gene_id "R2_28"; transcript_id "R2_28_3";
+chrIS	5447619	5447694	R2_27	.	+	Sequin	exon	.	gene_id "R2_27"; transcript_id "R2_27_1";
+chrIS	5447619	5487896	R2_27	.	+	Sequin	gene	.	gene_id "R2_27"; gene_type "synthetic";
+chrIS	5447619	5487896	R2_27	.	+	Sequin	transcript	.	gene_id "R2_27"; transcript_id "R2_27_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5447662	5447694	R2_27	.	+	Sequin	exon	.	gene_id "R2_27"; transcript_id "R2_27_2";
+chrIS	5447662	5486741	R2_27	.	+	Sequin	transcript	.	gene_id "R2_27"; transcript_id "R2_27_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5469045	5469171	R2_27	.	+	Sequin	exon	.	gene_id "R2_27"; transcript_id "R2_27_1";
+chrIS	5473380	5473535	R2_27	.	+	Sequin	exon	.	gene_id "R2_27"; transcript_id "R2_27_1";
+chrIS	5473380	5473535	R2_27	.	+	Sequin	exon	.	gene_id "R2_27"; transcript_id "R2_27_2";
+chrIS	5473657	5473833	R2_27	.	+	Sequin	exon	.	gene_id "R2_27"; transcript_id "R2_27_2";
+chrIS	5476673	5476746	R2_27	.	+	Sequin	exon	.	gene_id "R2_27"; transcript_id "R2_27_1";
+chrIS	5476673	5476746	R2_27	.	+	Sequin	exon	.	gene_id "R2_27"; transcript_id "R2_27_2";
+chrIS	5481390	5481500	R2_27	.	+	Sequin	exon	.	gene_id "R2_27"; transcript_id "R2_27_1";
+chrIS	5481390	5481500	R2_27	.	+	Sequin	exon	.	gene_id "R2_27"; transcript_id "R2_27_2";
+chrIS	5481620	5481818	R2_27	.	+	Sequin	exon	.	gene_id "R2_27"; transcript_id "R2_27_1";
+chrIS	5481620	5481818	R2_27	.	+	Sequin	exon	.	gene_id "R2_27"; transcript_id "R2_27_2";
+chrIS	5486379	5486741	R2_27	.	+	Sequin	exon	.	gene_id "R2_27"; transcript_id "R2_27_2";
+chrIS	5486379	5487896	R2_27	.	+	Sequin	exon	.	gene_id "R2_27"; transcript_id "R2_27_1";
+chrIS	5503296	5503538	R2_20	.	-	Sequin	exon	.	gene_id "R2_20"; transcript_id "R2_20_1";
+chrIS	5503296	5529326	R2_20	.	-	Sequin	gene	.	gene_id "R2_20"; gene_type "synthetic";
+chrIS	5503296	5529326	R2_20	.	-	Sequin	transcript	.	gene_id "R2_20"; transcript_id "R2_20_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5510798	5510916	R2_20	.	-	Sequin	exon	.	gene_id "R2_20"; transcript_id "R2_20_1";
+chrIS	5513043	5513468	R2_20	.	-	Sequin	exon	.	gene_id "R2_20"; transcript_id "R2_20_2";
+chrIS	5513043	5523587	R2_20	.	-	Sequin	transcript	.	gene_id "R2_20"; transcript_id "R2_20_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5513289	5513468	R2_20	.	-	Sequin	exon	.	gene_id "R2_20"; transcript_id "R2_20_1";
+chrIS	5517507	5517677	R2_20	.	-	Sequin	exon	.	gene_id "R2_20"; transcript_id "R2_20_1";
+chrIS	5517507	5517677	R2_20	.	-	Sequin	exon	.	gene_id "R2_20"; transcript_id "R2_20_2";
+chrIS	5519455	5519558	R2_20	.	-	Sequin	exon	.	gene_id "R2_20"; transcript_id "R2_20_2";
+chrIS	5520522	5520710	R2_20	.	-	Sequin	exon	.	gene_id "R2_20"; transcript_id "R2_20_2";
+chrIS	5522852	5523122	R2_20	.	-	Sequin	exon	.	gene_id "R2_20"; transcript_id "R2_20_1";
+chrIS	5522852	5523122	R2_20	.	-	Sequin	exon	.	gene_id "R2_20"; transcript_id "R2_20_2";
+chrIS	5523400	5523587	R2_20	.	-	Sequin	exon	.	gene_id "R2_20"; transcript_id "R2_20_2";
+chrIS	5523400	5523590	R2_20	.	-	Sequin	exon	.	gene_id "R2_20"; transcript_id "R2_20_1";
+chrIS	5529237	5529326	R2_20	.	-	Sequin	exon	.	gene_id "R2_20"; transcript_id "R2_20_1";
+chrIS	5556300	5556512	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5556300	5601169	R2_26	.	+	Sequin	gene	.	gene_id "R2_26"; gene_type "synthetic";
+chrIS	5556300	5601169	R2_26	.	+	Sequin	transcript	.	gene_id "R2_26"; transcript_id "R2_26_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5556301	5556512	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_2";
+chrIS	5556301	5570470	R2_26	.	+	Sequin	transcript	.	gene_id "R2_26"; transcript_id "R2_26_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5561111	5561383	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5561111	5561383	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_2";
+chrIS	5569536	5570470	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_2";
+chrIS	5582250	5582320	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5583159	5583473	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5584604	5584749	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5584851	5585061	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5586795	5586898	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5587732	5587947	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5589006	5589079	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5589543	5589749	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5591063	5591115	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5594307	5594471	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5595512	5595564	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5596214	5596387	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5597093	5597145	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5597760	5597933	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5598647	5598699	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5599306	5601169	R2_26	.	+	Sequin	exon	.	gene_id "R2_26"; transcript_id "R2_26_1";
+chrIS	5972393	5973338	R2_140	.	-	Sequin	gene	.	gene_id "R2_140"; gene_type "synthetic";
+chrIS	5972393	5973338	R2_140	.	-	Sequin	transcript	.	gene_id "R2_140"; transcript_id "R2_140_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	5972393	5973338	R2_140	.	-	Sequin	exon	.	gene_id "R2_140"; transcript_id "R2_140_1";
+chrIS	6108674	6108876	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_3";
+chrIS	6108674	6113483	R2_153	.	+	Sequin	transcript	.	gene_id "R2_153"; transcript_id "R2_153_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6108674	6119382	R2_153	.	+	Sequin	gene	.	gene_id "R2_153"; gene_type "synthetic";
+chrIS	6108762	6108937	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_1";
+chrIS	6108762	6119357	R2_153	.	+	Sequin	transcript	.	gene_id "R2_153"; transcript_id "R2_153_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6108775	6108937	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_2";
+chrIS	6108775	6119382	R2_153	.	+	Sequin	transcript	.	gene_id "R2_153"; transcript_id "R2_153_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6109104	6109199	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_3";
+chrIS	6109104	6109199	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_1";
+chrIS	6109104	6109199	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_2";
+chrIS	6109364	6109499	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_3";
+chrIS	6109364	6109499	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_2";
+chrIS	6109635	6109751	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_3";
+chrIS	6110259	6110392	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_3";
+chrIS	6110696	6110841	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_3";
+chrIS	6111257	6111448	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_3";
+chrIS	6111924	6111985	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_3";
+chrIS	6112170	6112289	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_3";
+chrIS	6112673	6112784	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_3";
+chrIS	6112673	6112784	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_2";
+chrIS	6112884	6113034	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_3";
+chrIS	6112884	6113034	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_1";
+chrIS	6112884	6113034	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_2";
+chrIS	6113171	6113214	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_3";
+chrIS	6113298	6113483	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_3";
+chrIS	6119113	6119357	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_1";
+chrIS	6119113	6119382	R2_153	.	+	Sequin	exon	.	gene_id "R2_153"; transcript_id "R2_153_2";
+chrIS	6165873	6166537	R1_14	.	+	Sequin	gene	.	gene_id "R1_14"; gene_type "synthetic";
+chrIS	6165873	6166537	R1_14	.	+	Sequin	transcript	.	gene_id "R1_14"; transcript_id "R1_14_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6165873	6166537	R1_14	.	+	Sequin	exon	.	gene_id "R1_14"; transcript_id "R1_14_1";
+chrIS	6223312	6223572	R2_154	.	+	Sequin	exon	.	gene_id "R2_154"; transcript_id "R2_154_1";
+chrIS	6223312	6227908	R2_154	.	+	Sequin	gene	.	gene_id "R2_154"; gene_type "synthetic";
+chrIS	6223312	6227908	R2_154	.	+	Sequin	transcript	.	gene_id "R2_154"; transcript_id "R2_154_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6223342	6223464	R2_154	.	+	Sequin	exon	.	gene_id "R2_154"; transcript_id "R2_154_2";
+chrIS	6223342	6227344	R2_154	.	+	Sequin	transcript	.	gene_id "R2_154"; transcript_id "R2_154_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6226646	6226774	R2_154	.	+	Sequin	exon	.	gene_id "R2_154"; transcript_id "R2_154_1";
+chrIS	6226646	6227344	R2_154	.	+	Sequin	exon	.	gene_id "R2_154"; transcript_id "R2_154_2";
+chrIS	6227384	6227908	R2_154	.	+	Sequin	exon	.	gene_id "R2_154"; transcript_id "R2_154_1";
+chrIS	6259933	6260193	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_1";
+chrIS	6259933	6286200	R2_152	.	-	Sequin	transcript	.	gene_id "R2_152"; transcript_id "R2_152_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6259933	6286217	R2_152	.	-	Sequin	gene	.	gene_id "R2_152"; gene_type "synthetic";
+chrIS	6260790	6260904	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_1";
+chrIS	6261642	6261779	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_1";
+chrIS	6262593	6262818	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_2";
+chrIS	6262593	6286217	R2_152	.	-	Sequin	transcript	.	gene_id "R2_152"; transcript_id "R2_152_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6262874	6262934	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_1";
+chrIS	6264075	6264138	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_1";
+chrIS	6264075	6264138	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_2";
+chrIS	6264761	6264897	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_1";
+chrIS	6264761	6264897	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_2";
+chrIS	6266512	6266650	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_1";
+chrIS	6266512	6266650	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_2";
+chrIS	6266759	6266900	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_1";
+chrIS	6266759	6266900	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_2";
+chrIS	6269229	6269301	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_1";
+chrIS	6269229	6269301	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_2";
+chrIS	6278661	6278757	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_1";
+chrIS	6278661	6278757	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_2";
+chrIS	6278856	6278886	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_1";
+chrIS	6278856	6278886	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_2";
+chrIS	6279156	6279181	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_1";
+chrIS	6279156	6279181	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_2";
+chrIS	6279378	6279436	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_1";
+chrIS	6279378	6279436	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_2";
+chrIS	6279586	6279734	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_1";
+chrIS	6279586	6279734	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_2";
+chrIS	6281864	6282267	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_1";
+chrIS	6281924	6282267	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_2";
+chrIS	6283114	6283215	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_1";
+chrIS	6283114	6283215	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_2";
+chrIS	6285939	6286200	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_1";
+chrIS	6285939	6286217	R2_152	.	-	Sequin	exon	.	gene_id "R2_152"; transcript_id "R2_152_2";
+chrIS	6298771	6298908	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_3";
+chrIS	6298771	6311425	R2_151	.	+	Sequin	transcript	.	gene_id "R2_151"; transcript_id "R2_151_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6298771	6322146	R2_151	.	+	Sequin	gene	.	gene_id "R2_151"; gene_type "synthetic";
+chrIS	6298826	6298908	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_1";
+chrIS	6298826	6322146	R2_151	.	+	Sequin	transcript	.	gene_id "R2_151"; transcript_id "R2_151_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6301790	6302048	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_2";
+chrIS	6301790	6322096	R2_151	.	+	Sequin	transcript	.	gene_id "R2_151"; transcript_id "R2_151_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6302015	6302048	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_3";
+chrIS	6302015	6302048	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_1";
+chrIS	6303437	6303511	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_3";
+chrIS	6303437	6303511	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_1";
+chrIS	6303437	6303511	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_2";
+chrIS	6304032	6304117	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_1";
+chrIS	6304032	6304117	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_2";
+chrIS	6309621	6309684	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_3";
+chrIS	6309621	6309684	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_1";
+chrIS	6309621	6309684	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_2";
+chrIS	6311240	6311350	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_1";
+chrIS	6311240	6311350	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_2";
+chrIS	6311240	6311425	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_3";
+chrIS	6311516	6311572	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_1";
+chrIS	6311516	6311572	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_2";
+chrIS	6314656	6314769	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_2";
+chrIS	6319171	6319249	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_1";
+chrIS	6319171	6319249	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_2";
+chrIS	6321933	6322096	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_2";
+chrIS	6321933	6322146	R2_151	.	+	Sequin	exon	.	gene_id "R2_151"; transcript_id "R2_151_1";
+chrIS	6327071	6327495	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_1";
+chrIS	6327071	6327495	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_2";
+chrIS	6327071	6345028	R1_23	.	-	Sequin	transcript	.	gene_id "R1_23"; transcript_id "R1_23_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6327071	6387358	R1_23	.	-	Sequin	gene	.	gene_id "R1_23"; gene_type "synthetic";
+chrIS	6327071	6387358	R1_23	.	-	Sequin	transcript	.	gene_id "R1_23"; transcript_id "R1_23_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6328885	6329009	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_1";
+chrIS	6328885	6329009	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_2";
+chrIS	6335369	6335504	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_1";
+chrIS	6335369	6335504	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_2";
+chrIS	6336490	6336638	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_1";
+chrIS	6336490	6336638	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_2";
+chrIS	6338548	6338719	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_1";
+chrIS	6338548	6338719	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_2";
+chrIS	6343646	6343756	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_1";
+chrIS	6343646	6343756	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_2";
+chrIS	6344958	6345028	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_2";
+chrIS	6347512	6347649	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_1";
+chrIS	6350708	6350774	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_1";
+chrIS	6352149	6352251	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_1";
+chrIS	6358963	6359141	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_1";
+chrIS	6387264	6387358	R1_23	.	-	Sequin	exon	.	gene_id "R1_23"; transcript_id "R1_23_1";
+chrIS	6412428	6412927	R1_22	.	-	Sequin	exon	.	gene_id "R1_22"; transcript_id "R1_22_2";
+chrIS	6412428	6412927	R1_22	.	-	Sequin	exon	.	gene_id "R1_22"; transcript_id "R1_22_1";
+chrIS	6412428	6437487	R1_22	.	-	Sequin	gene	.	gene_id "R1_22"; gene_type "synthetic";
+chrIS	6412428	6437487	R1_22	.	-	Sequin	transcript	.	gene_id "R1_22"; transcript_id "R1_22_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6412428	6437487	R1_22	.	-	Sequin	transcript	.	gene_id "R1_22"; transcript_id "R1_22_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6413538	6413587	R1_22	.	-	Sequin	exon	.	gene_id "R1_22"; transcript_id "R1_22_2";
+chrIS	6413538	6413587	R1_22	.	-	Sequin	exon	.	gene_id "R1_22"; transcript_id "R1_22_1";
+chrIS	6415171	6415213	R1_22	.	-	Sequin	exon	.	gene_id "R1_22"; transcript_id "R1_22_1";
+chrIS	6416734	6416760	R1_22	.	-	Sequin	exon	.	gene_id "R1_22"; transcript_id "R1_22_1";
+chrIS	6419955	6420058	R1_22	.	-	Sequin	exon	.	gene_id "R1_22"; transcript_id "R1_22_2";
+chrIS	6419955	6420058	R1_22	.	-	Sequin	exon	.	gene_id "R1_22"; transcript_id "R1_22_1";
+chrIS	6426901	6426961	R1_22	.	-	Sequin	exon	.	gene_id "R1_22"; transcript_id "R1_22_1";
+chrIS	6428960	6429109	R1_22	.	-	Sequin	exon	.	gene_id "R1_22"; transcript_id "R1_22_2";
+chrIS	6428960	6429109	R1_22	.	-	Sequin	exon	.	gene_id "R1_22"; transcript_id "R1_22_1";
+chrIS	6433335	6433481	R1_22	.	-	Sequin	exon	.	gene_id "R1_22"; transcript_id "R1_22_2";
+chrIS	6433335	6433481	R1_22	.	-	Sequin	exon	.	gene_id "R1_22"; transcript_id "R1_22_1";
+chrIS	6437392	6437487	R1_22	.	-	Sequin	exon	.	gene_id "R1_22"; transcript_id "R1_22_2";
+chrIS	6437392	6437487	R1_22	.	-	Sequin	exon	.	gene_id "R1_22"; transcript_id "R1_22_1";
+chrIS	6440045	6440150	R2_150	.	+	Sequin	exon	.	gene_id "R2_150"; transcript_id "R2_150_1";
+chrIS	6440045	6451074	R2_150	.	+	Sequin	transcript	.	gene_id "R2_150"; transcript_id "R2_150_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6440045	6451743	R2_150	.	+	Sequin	gene	.	gene_id "R2_150"; gene_type "synthetic";
+chrIS	6441350	6441438	R2_150	.	+	Sequin	exon	.	gene_id "R2_150"; transcript_id "R2_150_1";
+chrIS	6446047	6446148	R2_150	.	+	Sequin	exon	.	gene_id "R2_150"; transcript_id "R2_150_2";
+chrIS	6446047	6451743	R2_150	.	+	Sequin	transcript	.	gene_id "R2_150"; transcript_id "R2_150_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6447833	6447908	R2_150	.	+	Sequin	exon	.	gene_id "R2_150"; transcript_id "R2_150_2";
+chrIS	6448131	6448285	R2_150	.	+	Sequin	exon	.	gene_id "R2_150"; transcript_id "R2_150_2";
+chrIS	6448937	6449236	R2_150	.	+	Sequin	exon	.	gene_id "R2_150"; transcript_id "R2_150_2";
+chrIS	6449849	6450076	R2_150	.	+	Sequin	exon	.	gene_id "R2_150"; transcript_id "R2_150_2";
+chrIS	6449849	6450090	R2_150	.	+	Sequin	exon	.	gene_id "R2_150"; transcript_id "R2_150_1";
+chrIS	6450753	6451074	R2_150	.	+	Sequin	exon	.	gene_id "R2_150"; transcript_id "R2_150_1";
+chrIS	6450753	6451743	R2_150	.	+	Sequin	exon	.	gene_id "R2_150"; transcript_id "R2_150_2";
+chrIS	6471917	6472391	R1_21	.	-	Sequin	exon	.	gene_id "R1_21"; transcript_id "R1_21_2";
+chrIS	6471917	6472391	R1_21	.	-	Sequin	exon	.	gene_id "R1_21"; transcript_id "R1_21_1";
+chrIS	6471917	6478494	R1_21	.	-	Sequin	transcript	.	gene_id "R1_21"; transcript_id "R1_21_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6471917	6478551	R1_21	.	-	Sequin	gene	.	gene_id "R1_21"; gene_type "synthetic";
+chrIS	6471917	6478551	R1_21	.	-	Sequin	transcript	.	gene_id "R1_21"; transcript_id "R1_21_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6474670	6474800	R1_21	.	-	Sequin	exon	.	gene_id "R1_21"; transcript_id "R1_21_1";
+chrIS	6476582	6476686	R1_21	.	-	Sequin	exon	.	gene_id "R1_21"; transcript_id "R1_21_2";
+chrIS	6476582	6476686	R1_21	.	-	Sequin	exon	.	gene_id "R1_21"; transcript_id "R1_21_1";
+chrIS	6478335	6478494	R1_21	.	-	Sequin	exon	.	gene_id "R1_21"; transcript_id "R1_21_1";
+chrIS	6478335	6478551	R1_21	.	-	Sequin	exon	.	gene_id "R1_21"; transcript_id "R1_21_2";
+chrIS	6495392	6496217	R2_143	.	-	Sequin	gene	.	gene_id "R2_143"; gene_type "synthetic";
+chrIS	6495392	6496217	R2_143	.	-	Sequin	transcript	.	gene_id "R2_143"; transcript_id "R2_143_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6495392	6496217	R2_143	.	-	Sequin	exon	.	gene_id "R2_143"; transcript_id "R2_143_1";
+chrIS	6535368	6535835	R2_14	.	+	Sequin	exon	.	gene_id "R2_14"; transcript_id "R2_14_1";
+chrIS	6535368	6557020	R2_14	.	+	Sequin	transcript	.	gene_id "R2_14"; transcript_id "R2_14_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6535368	6557165	R2_14	.	+	Sequin	gene	.	gene_id "R2_14"; gene_type "synthetic";
+chrIS	6535709	6535835	R2_14	.	+	Sequin	exon	.	gene_id "R2_14"; transcript_id "R2_14_2";
+chrIS	6535709	6547776	R2_14	.	+	Sequin	transcript	.	gene_id "R2_14"; transcript_id "R2_14_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6539108	6539232	R2_14	.	+	Sequin	exon	.	gene_id "R2_14"; transcript_id "R2_14_1";
+chrIS	6539108	6539232	R2_14	.	+	Sequin	exon	.	gene_id "R2_14"; transcript_id "R2_14_2";
+chrIS	6539923	6539957	R2_14	.	+	Sequin	exon	.	gene_id "R2_14"; transcript_id "R2_14_1";
+chrIS	6539923	6539957	R2_14	.	+	Sequin	exon	.	gene_id "R2_14"; transcript_id "R2_14_2";
+chrIS	6545613	6545680	R2_14	.	+	Sequin	exon	.	gene_id "R2_14"; transcript_id "R2_14_1";
+chrIS	6545613	6545680	R2_14	.	+	Sequin	exon	.	gene_id "R2_14"; transcript_id "R2_14_2";
+chrIS	6547531	6547776	R2_14	.	+	Sequin	exon	.	gene_id "R2_14"; transcript_id "R2_14_2";
+chrIS	6555180	6555589	R2_14	.	+	Sequin	exon	.	gene_id "R2_14"; transcript_id "R2_14_3";
+chrIS	6555180	6557165	R2_14	.	+	Sequin	transcript	.	gene_id "R2_14"; transcript_id "R2_14_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6556643	6557020	R2_14	.	+	Sequin	exon	.	gene_id "R2_14"; transcript_id "R2_14_1";
+chrIS	6556643	6557165	R2_14	.	+	Sequin	exon	.	gene_id "R2_14"; transcript_id "R2_14_3";
+chrIS	6583066	6583237	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_1";
+chrIS	6583066	6601180	R1_103	.	+	Sequin	transcript	.	gene_id "R1_103"; transcript_id "R1_103_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6583066	6601316	R1_103	.	+	Sequin	gene	.	gene_id "R1_103"; gene_type "synthetic";
+chrIS	6592651	6592829	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_2";
+chrIS	6592651	6601316	R1_103	.	+	Sequin	transcript	.	gene_id "R1_103"; transcript_id "R1_103_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6593719	6593848	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_1";
+chrIS	6593719	6593848	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_2";
+chrIS	6594510	6594561	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_1";
+chrIS	6594510	6594561	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_2";
+chrIS	6596385	6596427	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_1";
+chrIS	6596385	6596427	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_2";
+chrIS	6596559	6596597	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_1";
+chrIS	6596559	6596597	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_2";
+chrIS	6596841	6596963	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_1";
+chrIS	6597068	6597189	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_1";
+chrIS	6597068	6597189	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_2";
+chrIS	6597349	6597486	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_1";
+chrIS	6597349	6597486	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_2";
+chrIS	6597818	6597899	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_2";
+chrIS	6598021	6598199	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_1";
+chrIS	6598021	6598199	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_2";
+chrIS	6598379	6598474	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_1";
+chrIS	6598379	6598474	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_2";
+chrIS	6599007	6599070	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_1";
+chrIS	6599007	6599070	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_2";
+chrIS	6599205	6599301	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_1";
+chrIS	6599205	6599301	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_2";
+chrIS	6599498	6599634	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_1";
+chrIS	6599498	6599634	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_2";
+chrIS	6600665	6600778	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_1";
+chrIS	6600665	6600778	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_2";
+chrIS	6600918	6601180	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_1";
+chrIS	6600918	6601316	R1_103	.	+	Sequin	exon	.	gene_id "R1_103"; transcript_id "R1_103_2";
+chrIS	6655220	6656127	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_1";
+chrIS	6655220	6656127	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_2";
+chrIS	6655220	6774431	R2_19	.	-	Sequin	transcript	.	gene_id "R2_19"; transcript_id "R2_19_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6655220	6779046	R2_19	.	-	Sequin	gene	.	gene_id "R2_19"; gene_type "synthetic";
+chrIS	6655220	6779046	R2_19	.	-	Sequin	transcript	.	gene_id "R2_19"; transcript_id "R2_19_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6662715	6662859	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_1";
+chrIS	6662715	6662859	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_2";
+chrIS	6696454	6700868	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_2";
+chrIS	6706097	6706208	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_2";
+chrIS	6729798	6729925	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_1";
+chrIS	6729798	6729925	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_2";
+chrIS	6737128	6737281	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_1";
+chrIS	6737128	6737281	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_2";
+chrIS	6746403	6746507	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_1";
+chrIS	6746403	6746507	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_2";
+chrIS	6748168	6748286	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_1";
+chrIS	6748168	6748286	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_2";
+chrIS	6763671	6763745	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_1";
+chrIS	6763671	6763745	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_2";
+chrIS	6773640	6774431	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_2";
+chrIS	6778985	6779046	R2_19	.	-	Sequin	exon	.	gene_id "R2_19"; transcript_id "R2_19_1";
+chrIS	6790135	6790296	R1_102	.	+	Sequin	exon	.	gene_id "R1_102"; transcript_id "R1_102_2";
+chrIS	6790135	6808198	R1_102	.	+	Sequin	transcript	.	gene_id "R1_102"; transcript_id "R1_102_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6790135	6829759	R1_102	.	+	Sequin	gene	.	gene_id "R1_102"; gene_type "synthetic";
+chrIS	6790170	6790296	R1_102	.	+	Sequin	exon	.	gene_id "R1_102"; transcript_id "R1_102_1";
+chrIS	6790170	6829759	R1_102	.	+	Sequin	transcript	.	gene_id "R1_102"; transcript_id "R1_102_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6794367	6794699	R1_102	.	+	Sequin	exon	.	gene_id "R1_102"; transcript_id "R1_102_2";
+chrIS	6794367	6794699	R1_102	.	+	Sequin	exon	.	gene_id "R1_102"; transcript_id "R1_102_1";
+chrIS	6798855	6798958	R1_102	.	+	Sequin	exon	.	gene_id "R1_102"; transcript_id "R1_102_2";
+chrIS	6798855	6798958	R1_102	.	+	Sequin	exon	.	gene_id "R1_102"; transcript_id "R1_102_1";
+chrIS	6799684	6799856	R1_102	.	+	Sequin	exon	.	gene_id "R1_102"; transcript_id "R1_102_2";
+chrIS	6799684	6799856	R1_102	.	+	Sequin	exon	.	gene_id "R1_102"; transcript_id "R1_102_1";
+chrIS	6802313	6802437	R1_102	.	+	Sequin	exon	.	gene_id "R1_102"; transcript_id "R1_102_1";
+chrIS	6802394	6802437	R1_102	.	+	Sequin	exon	.	gene_id "R1_102"; transcript_id "R1_102_2";
+chrIS	6807647	6808198	R1_102	.	+	Sequin	exon	.	gene_id "R1_102"; transcript_id "R1_102_2";
+chrIS	6822105	6822297	R1_102	.	+	Sequin	exon	.	gene_id "R1_102"; transcript_id "R1_102_1";
+chrIS	6829318	6829759	R1_102	.	+	Sequin	exon	.	gene_id "R1_102"; transcript_id "R1_102_1";
+chrIS	6929221	6929838	R1_13	.	-	Sequin	exon	.	gene_id "R1_13"; transcript_id "R1_13_1";
+chrIS	6929221	6951607	R1_13	.	-	Sequin	gene	.	gene_id "R1_13"; gene_type "synthetic";
+chrIS	6929221	6951607	R1_13	.	-	Sequin	transcript	.	gene_id "R1_13"; transcript_id "R1_13_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6931093	6931237	R1_13	.	-	Sequin	exon	.	gene_id "R1_13"; transcript_id "R1_13_1";
+chrIS	6931598	6931697	R1_13	.	-	Sequin	exon	.	gene_id "R1_13"; transcript_id "R1_13_1";
+chrIS	6932695	6932875	R1_13	.	-	Sequin	exon	.	gene_id "R1_13"; transcript_id "R1_13_1";
+chrIS	6937949	6938060	R1_13	.	-	Sequin	exon	.	gene_id "R1_13"; transcript_id "R1_13_1";
+chrIS	6940455	6940632	R1_13	.	-	Sequin	exon	.	gene_id "R1_13"; transcript_id "R1_13_1";
+chrIS	6940721	6940840	R1_13	.	-	Sequin	exon	.	gene_id "R1_13"; transcript_id "R1_13_1";
+chrIS	6942256	6942456	R1_13	.	-	Sequin	exon	.	gene_id "R1_13"; transcript_id "R1_13_1";
+chrIS	6942568	6942661	R1_13	.	-	Sequin	exon	.	gene_id "R1_13"; transcript_id "R1_13_1";
+chrIS	6949423	6949776	R1_13	.	-	Sequin	exon	.	gene_id "R1_13"; transcript_id "R1_13_2";
+chrIS	6949423	6951607	R1_13	.	-	Sequin	transcript	.	gene_id "R1_13"; transcript_id "R1_13_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6950162	6950307	R1_13	.	-	Sequin	exon	.	gene_id "R1_13"; transcript_id "R1_13_2";
+chrIS	6951407	6951607	R1_13	.	-	Sequin	exon	.	gene_id "R1_13"; transcript_id "R1_13_1";
+chrIS	6951407	6951607	R1_13	.	-	Sequin	exon	.	gene_id "R1_13"; transcript_id "R1_13_2";
+chrIS	6955486	6955729	R1_101	.	+	Sequin	exon	.	gene_id "R1_101"; transcript_id "R1_101_1";
+chrIS	6955486	6962816	R1_101	.	+	Sequin	gene	.	gene_id "R1_101"; gene_type "synthetic";
+chrIS	6955486	6962816	R1_101	.	+	Sequin	transcript	.	gene_id "R1_101"; transcript_id "R1_101_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6955560	6955729	R1_101	.	+	Sequin	exon	.	gene_id "R1_101"; transcript_id "R1_101_2";
+chrIS	6955560	6960050	R1_101	.	+	Sequin	transcript	.	gene_id "R1_101"; transcript_id "R1_101_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	6959789	6960050	R1_101	.	+	Sequin	exon	.	gene_id "R1_101"; transcript_id "R1_101_2";
+chrIS	6960383	6960499	R1_101	.	+	Sequin	exon	.	gene_id "R1_101"; transcript_id "R1_101_1";
+chrIS	6962456	6962816	R1_101	.	+	Sequin	exon	.	gene_id "R1_101"; transcript_id "R1_101_1";
+chrIS	7337725	7337841	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_2";
+chrIS	7337725	7348263	R2_116	.	-	Sequin	transcript	.	gene_id "R2_116"; transcript_id "R2_116_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	7337725	7348268	R2_116	.	-	Sequin	gene	.	gene_id "R2_116"; gene_type "synthetic";
+chrIS	7337774	7337841	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_1";
+chrIS	7337774	7348268	R2_116	.	-	Sequin	transcript	.	gene_id "R2_116"; transcript_id "R2_116_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	7337776	7337841	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_3";
+chrIS	7337776	7343057	R2_116	.	-	Sequin	transcript	.	gene_id "R2_116"; transcript_id "R2_116_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	7338171	7338269	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_3";
+chrIS	7338447	7338599	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_1";
+chrIS	7338447	7338599	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_3";
+chrIS	7339899	7340079	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_2";
+chrIS	7339899	7340079	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_1";
+chrIS	7339899	7340079	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_3";
+chrIS	7341856	7341936	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_3";
+chrIS	7342677	7342767	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_2";
+chrIS	7342677	7342767	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_1";
+chrIS	7342993	7343057	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_3";
+chrIS	7343794	7343915	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_2";
+chrIS	7343794	7343915	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_1";
+chrIS	7346929	7347003	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_2";
+chrIS	7348133	7348263	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_2";
+chrIS	7348133	7348268	R2_116	.	-	Sequin	exon	.	gene_id "R2_116"; transcript_id "R2_116_1";
+chrIS	7445531	7445906	R2_105	.	+	Sequin	gene	.	gene_id "R2_105"; gene_type "synthetic";
+chrIS	7445531	7445906	R2_105	.	+	Sequin	transcript	.	gene_id "R2_105"; transcript_id "R2_105_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	7445531	7445906	R2_105	.	+	Sequin	exon	.	gene_id "R2_105"; transcript_id "R2_105_1";
+chrIS	7549499	7550494	R2_1	.	-	Sequin	gene	.	gene_id "R2_1"; gene_type "synthetic";
+chrIS	7549499	7550494	R2_1	.	-	Sequin	transcript	.	gene_id "R2_1"; transcript_id "R2_1_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	7549499	7550494	R2_1	.	-	Sequin	exon	.	gene_id "R2_1"; transcript_id "R2_1_1";
+chrIS	7625867	7626425	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_2";
+chrIS	7625867	7626425	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_1";
+chrIS	7625867	7849011	R1_93	.	-	Sequin	gene	.	gene_id "R1_93"; gene_type "synthetic";
+chrIS	7625867	7849011	R1_93	.	-	Sequin	transcript	.	gene_id "R1_93"; transcript_id "R1_93_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	7625867	7849011	R1_93	.	-	Sequin	transcript	.	gene_id "R1_93"; transcript_id "R1_93_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	7635628	7635775	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_1";
+chrIS	7636006	7636153	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_1";
+chrIS	7656829	7657013	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_1";
+chrIS	7657290	7657390	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_1";
+chrIS	7658259	7658322	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_1";
+chrIS	7662079	7662174	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_2";
+chrIS	7662079	7662174	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_1";
+chrIS	7718245	7718338	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_2";
+chrIS	7718245	7718338	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_1";
+chrIS	7741623	7741666	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_2";
+chrIS	7741623	7741666	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_1";
+chrIS	7764408	7764456	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_2";
+chrIS	7820132	7820325	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_2";
+chrIS	7820177	7820325	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_1";
+chrIS	7848864	7849011	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_2";
+chrIS	7848864	7849011	R1_93	.	-	Sequin	exon	.	gene_id "R1_93"; transcript_id "R1_93_1";
+chrIS	7853954	7854138	R2_115	.	+	Sequin	exon	.	gene_id "R2_115"; transcript_id "R2_115_1";
+chrIS	7853954	7908639	R2_115	.	+	Sequin	transcript	.	gene_id "R2_115"; transcript_id "R2_115_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	7853954	7915248	R2_115	.	+	Sequin	gene	.	gene_id "R2_115"; gene_type "synthetic";
+chrIS	7853995	7854138	R2_115	.	+	Sequin	exon	.	gene_id "R2_115"; transcript_id "R2_115_2";
+chrIS	7853995	7915248	R2_115	.	+	Sequin	transcript	.	gene_id "R2_115"; transcript_id "R2_115_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	7900736	7900907	R2_115	.	+	Sequin	exon	.	gene_id "R2_115"; transcript_id "R2_115_1";
+chrIS	7903352	7903471	R2_115	.	+	Sequin	exon	.	gene_id "R2_115"; transcript_id "R2_115_1";
+chrIS	7903471	7903793	R2_115	.	+	Sequin	exon	.	gene_id "R2_115"; transcript_id "R2_115_2";
+chrIS	7905439	7905585	R2_115	.	+	Sequin	exon	.	gene_id "R2_115"; transcript_id "R2_115_1";
+chrIS	7905439	7905585	R2_115	.	+	Sequin	exon	.	gene_id "R2_115"; transcript_id "R2_115_2";
+chrIS	7908465	7908639	R2_115	.	+	Sequin	exon	.	gene_id "R2_115"; transcript_id "R2_115_1";
+chrIS	7911537	7911651	R2_115	.	+	Sequin	exon	.	gene_id "R2_115"; transcript_id "R2_115_2";
+chrIS	7914928	7915248	R2_115	.	+	Sequin	exon	.	gene_id "R2_115"; transcript_id "R2_115_2";
+chrIS	8045965	8046873	R2_65	.	+	Sequin	gene	.	gene_id "R2_65"; gene_type "synthetic";
+chrIS	8045965	8046873	R2_65	.	+	Sequin	transcript	.	gene_id "R2_65"; transcript_id "R2_65_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8045965	8046873	R2_65	.	+	Sequin	exon	.	gene_id "R2_65"; transcript_id "R2_65_1";
+chrIS	8057728	8058065	R1_91	.	-	Sequin	exon	.	gene_id "R1_91"; transcript_id "R1_91_1";
+chrIS	8057728	8058532	R1_91	.	-	Sequin	exon	.	gene_id "R1_91"; transcript_id "R1_91_2";
+chrIS	8057728	8063025	R1_91	.	-	Sequin	gene	.	gene_id "R1_91"; gene_type "synthetic";
+chrIS	8057728	8063025	R1_91	.	-	Sequin	transcript	.	gene_id "R1_91"; transcript_id "R1_91_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8057728	8063025	R1_91	.	-	Sequin	transcript	.	gene_id "R1_91"; transcript_id "R1_91_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8058414	8058532	R1_91	.	-	Sequin	exon	.	gene_id "R1_91"; transcript_id "R1_91_1";
+chrIS	8062352	8062433	R1_91	.	-	Sequin	exon	.	gene_id "R1_91"; transcript_id "R1_91_2";
+chrIS	8062352	8062433	R1_91	.	-	Sequin	exon	.	gene_id "R1_91"; transcript_id "R1_91_1";
+chrIS	8062956	8063025	R1_91	.	-	Sequin	exon	.	gene_id "R1_91"; transcript_id "R1_91_2";
+chrIS	8062956	8063025	R1_91	.	-	Sequin	exon	.	gene_id "R1_91"; transcript_id "R1_91_1";
+chrIS	8064889	8065442	R1_83	.	-	Sequin	exon	.	gene_id "R1_83"; transcript_id "R1_83_2";
+chrIS	8064889	8081234	R1_83	.	-	Sequin	gene	.	gene_id "R1_83"; gene_type "synthetic";
+chrIS	8064889	8081234	R1_83	.	-	Sequin	transcript	.	gene_id "R1_83"; transcript_id "R1_83_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8064924	8065442	R1_83	.	-	Sequin	exon	.	gene_id "R1_83"; transcript_id "R1_83_1";
+chrIS	8064924	8081234	R1_83	.	-	Sequin	transcript	.	gene_id "R1_83"; transcript_id "R1_83_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8065890	8066036	R1_83	.	-	Sequin	exon	.	gene_id "R1_83"; transcript_id "R1_83_1";
+chrIS	8071624	8071759	R1_83	.	-	Sequin	exon	.	gene_id "R1_83"; transcript_id "R1_83_2";
+chrIS	8071624	8071759	R1_83	.	-	Sequin	exon	.	gene_id "R1_83"; transcript_id "R1_83_1";
+chrIS	8072775	8072867	R1_83	.	-	Sequin	exon	.	gene_id "R1_83"; transcript_id "R1_83_2";
+chrIS	8072775	8072867	R1_83	.	-	Sequin	exon	.	gene_id "R1_83"; transcript_id "R1_83_1";
+chrIS	8076063	8076088	R1_83	.	-	Sequin	exon	.	gene_id "R1_83"; transcript_id "R1_83_2";
+chrIS	8076063	8076088	R1_83	.	-	Sequin	exon	.	gene_id "R1_83"; transcript_id "R1_83_1";
+chrIS	8080502	8081234	R1_83	.	-	Sequin	exon	.	gene_id "R1_83"; transcript_id "R1_83_1";
+chrIS	8081094	8081234	R1_83	.	-	Sequin	exon	.	gene_id "R1_83"; transcript_id "R1_83_2";
+chrIS	8123647	8124022	R1_82	.	-	Sequin	exon	.	gene_id "R1_82"; transcript_id "R1_82_2";
+chrIS	8123647	8124022	R1_82	.	-	Sequin	exon	.	gene_id "R1_82"; transcript_id "R1_82_1";
+chrIS	8123647	8150600	R1_82	.	-	Sequin	gene	.	gene_id "R1_82"; gene_type "synthetic";
+chrIS	8123647	8150600	R1_82	.	-	Sequin	transcript	.	gene_id "R1_82"; transcript_id "R1_82_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8123647	8150600	R1_82	.	-	Sequin	transcript	.	gene_id "R1_82"; transcript_id "R1_82_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8127433	8127676	R1_82	.	-	Sequin	exon	.	gene_id "R1_82"; transcript_id "R1_82_2";
+chrIS	8127433	8127676	R1_82	.	-	Sequin	exon	.	gene_id "R1_82"; transcript_id "R1_82_1";
+chrIS	8130039	8130231	R1_82	.	-	Sequin	exon	.	gene_id "R1_82"; transcript_id "R1_82_2";
+chrIS	8130039	8130231	R1_82	.	-	Sequin	exon	.	gene_id "R1_82"; transcript_id "R1_82_1";
+chrIS	8141772	8141885	R1_82	.	-	Sequin	exon	.	gene_id "R1_82"; transcript_id "R1_82_1";
+chrIS	8143042	8143225	R1_82	.	-	Sequin	exon	.	gene_id "R1_82"; transcript_id "R1_82_1";
+chrIS	8148301	8148423	R1_82	.	-	Sequin	exon	.	gene_id "R1_82"; transcript_id "R1_82_1";
+chrIS	8150428	8150600	R1_82	.	-	Sequin	exon	.	gene_id "R1_82"; transcript_id "R1_82_2";
+chrIS	8150428	8150600	R1_82	.	-	Sequin	exon	.	gene_id "R1_82"; transcript_id "R1_82_1";
+chrIS	8164483	8164613	R1_81	.	+	Sequin	exon	.	gene_id "R1_81"; transcript_id "R1_81_1";
+chrIS	8164483	8170561	R1_81	.	+	Sequin	gene	.	gene_id "R1_81"; gene_type "synthetic";
+chrIS	8164483	8170561	R1_81	.	+	Sequin	transcript	.	gene_id "R1_81"; transcript_id "R1_81_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8167698	8168114	R1_81	.	+	Sequin	exon	.	gene_id "R1_81"; transcript_id "R1_81_2";
+chrIS	8167698	8170561	R1_81	.	+	Sequin	transcript	.	gene_id "R1_81"; transcript_id "R1_81_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8168354	8168506	R1_81	.	+	Sequin	exon	.	gene_id "R1_81"; transcript_id "R1_81_1";
+chrIS	8168354	8168506	R1_81	.	+	Sequin	exon	.	gene_id "R1_81"; transcript_id "R1_81_2";
+chrIS	8169141	8169317	R1_81	.	+	Sequin	exon	.	gene_id "R1_81"; transcript_id "R1_81_1";
+chrIS	8169141	8169317	R1_81	.	+	Sequin	exon	.	gene_id "R1_81"; transcript_id "R1_81_2";
+chrIS	8169654	8169964	R1_81	.	+	Sequin	exon	.	gene_id "R1_81"; transcript_id "R1_81_1";
+chrIS	8169654	8170561	R1_81	.	+	Sequin	exon	.	gene_id "R1_81"; transcript_id "R1_81_2";
+chrIS	8170440	8170561	R1_81	.	+	Sequin	exon	.	gene_id "R1_81"; transcript_id "R1_81_1";
+chrIS	8176595	8176706	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_1";
+chrIS	8176595	8400746	R1_73	.	+	Sequin	transcript	.	gene_id "R1_73"; transcript_id "R1_73_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8176595	8401345	R1_73	.	+	Sequin	gene	.	gene_id "R1_73"; gene_type "synthetic";
+chrIS	8211993	8212093	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_2";
+chrIS	8211993	8401345	R1_73	.	+	Sequin	transcript	.	gene_id "R1_73"; transcript_id "R1_73_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8276227	8276315	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_1";
+chrIS	8276227	8276315	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_2";
+chrIS	8300036	8300148	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_1";
+chrIS	8300036	8300148	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_2";
+chrIS	8361097	8361247	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_1";
+chrIS	8361097	8361247	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_2";
+chrIS	8365334	8365735	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_1";
+chrIS	8365334	8366421	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_2";
+chrIS	8368031	8368106	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_2";
+chrIS	8373434	8373581	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_2";
+chrIS	8373436	8373581	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_1";
+chrIS	8379851	8380113	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_1";
+chrIS	8382717	8382857	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_1";
+chrIS	8382717	8382857	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_2";
+chrIS	8390411	8390456	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_1";
+chrIS	8390411	8390456	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_2";
+chrIS	8390552	8390634	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_1";
+chrIS	8390552	8390635	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_2";
+chrIS	8392317	8392453	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_1";
+chrIS	8392874	8392972	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_1";
+chrIS	8392877	8392972	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_2";
+chrIS	8397649	8397729	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_1";
+chrIS	8397649	8397729	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_2";
+chrIS	8400682	8400746	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_1";
+chrIS	8400682	8401345	R1_73	.	+	Sequin	exon	.	gene_id "R1_73"; transcript_id "R1_73_2";
+chrIS	8460727	8461190	R1_72	.	-	Sequin	exon	.	gene_id "R1_72"; transcript_id "R1_72_1";
+chrIS	8460727	8461954	R1_72	.	-	Sequin	gene	.	gene_id "R1_72"; gene_type "synthetic";
+chrIS	8460727	8461954	R1_72	.	-	Sequin	transcript	.	gene_id "R1_72"; transcript_id "R1_72_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8460727	8461954	R1_72	.	-	Sequin	transcript	.	gene_id "R1_72"; transcript_id "R1_72_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8460727	8461954	R1_72	.	-	Sequin	exon	.	gene_id "R1_72"; transcript_id "R1_72_2";
+chrIS	8461429	8461954	R1_72	.	-	Sequin	exon	.	gene_id "R1_72"; transcript_id "R1_72_1";
+chrIS	8483368	8483608	R1_61	.	+	Sequin	exon	.	gene_id "R1_61"; transcript_id "R1_61_2";
+chrIS	8483368	8499503	R1_61	.	+	Sequin	transcript	.	gene_id "R1_61"; transcript_id "R1_61_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8483368	8499650	R1_61	.	+	Sequin	gene	.	gene_id "R1_61"; gene_type "synthetic";
+chrIS	8484114	8484280	R1_61	.	+	Sequin	exon	.	gene_id "R1_61"; transcript_id "R1_61_1";
+chrIS	8484114	8499650	R1_61	.	+	Sequin	transcript	.	gene_id "R1_61"; transcript_id "R1_61_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8484443	8484567	R1_61	.	+	Sequin	exon	.	gene_id "R1_61"; transcript_id "R1_61_2";
+chrIS	8484443	8484567	R1_61	.	+	Sequin	exon	.	gene_id "R1_61"; transcript_id "R1_61_1";
+chrIS	8485068	8485123	R1_61	.	+	Sequin	exon	.	gene_id "R1_61"; transcript_id "R1_61_1";
+chrIS	8499332	8499503	R1_61	.	+	Sequin	exon	.	gene_id "R1_61"; transcript_id "R1_61_2";
+chrIS	8499332	8499650	R1_61	.	+	Sequin	exon	.	gene_id "R1_61"; transcript_id "R1_61_1";
+chrIS	8531300	8531471	R1_62	.	+	Sequin	exon	.	gene_id "R1_62"; transcript_id "R1_62_1";
+chrIS	8531300	8532870	R1_62	.	+	Sequin	gene	.	gene_id "R1_62"; gene_type "synthetic";
+chrIS	8531300	8532870	R1_62	.	+	Sequin	transcript	.	gene_id "R1_62"; transcript_id "R1_62_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8531351	8531471	R1_62	.	+	Sequin	exon	.	gene_id "R1_62"; transcript_id "R1_62_2";
+chrIS	8531351	8532515	R1_62	.	+	Sequin	transcript	.	gene_id "R1_62"; transcript_id "R1_62_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8531860	8531939	R1_62	.	+	Sequin	exon	.	gene_id "R1_62"; transcript_id "R1_62_1";
+chrIS	8531860	8531939	R1_62	.	+	Sequin	exon	.	gene_id "R1_62"; transcript_id "R1_62_2";
+chrIS	8532087	8532166	R1_62	.	+	Sequin	exon	.	gene_id "R1_62"; transcript_id "R1_62_1";
+chrIS	8532087	8532515	R1_62	.	+	Sequin	exon	.	gene_id "R1_62"; transcript_id "R1_62_2";
+chrIS	8532244	8532870	R1_62	.	+	Sequin	exon	.	gene_id "R1_62"; transcript_id "R1_62_1";
+chrIS	8623258	8623397	R1_71	.	+	Sequin	exon	.	gene_id "R1_71"; transcript_id "R1_71_2";
+chrIS	8623258	8627558	R1_71	.	+	Sequin	gene	.	gene_id "R1_71"; gene_type "synthetic";
+chrIS	8623258	8627558	R1_71	.	+	Sequin	transcript	.	gene_id "R1_71"; transcript_id "R1_71_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8623842	8624065	R1_71	.	+	Sequin	exon	.	gene_id "R1_71"; transcript_id "R1_71_1";
+chrIS	8623842	8627558	R1_71	.	+	Sequin	transcript	.	gene_id "R1_71"; transcript_id "R1_71_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8624037	8624065	R1_71	.	+	Sequin	exon	.	gene_id "R1_71"; transcript_id "R1_71_2";
+chrIS	8624983	8625071	R1_71	.	+	Sequin	exon	.	gene_id "R1_71"; transcript_id "R1_71_1";
+chrIS	8626141	8626346	R1_71	.	+	Sequin	exon	.	gene_id "R1_71"; transcript_id "R1_71_1";
+chrIS	8626454	8626515	R1_71	.	+	Sequin	exon	.	gene_id "R1_71"; transcript_id "R1_71_2";
+chrIS	8626454	8626515	R1_71	.	+	Sequin	exon	.	gene_id "R1_71"; transcript_id "R1_71_1";
+chrIS	8627310	8627558	R1_71	.	+	Sequin	exon	.	gene_id "R1_71"; transcript_id "R1_71_2";
+chrIS	8627310	8627558	R1_71	.	+	Sequin	exon	.	gene_id "R1_71"; transcript_id "R1_71_1";
+chrIS	8815650	8816170	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8815650	8816170	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8815650	8890752	R1_43	.	-	Sequin	transcript	.	gene_id "R1_43"; transcript_id "R1_43_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8815650	8920058	R1_43	.	-	Sequin	gene	.	gene_id "R1_43"; gene_type "synthetic";
+chrIS	8815650	8920058	R1_43	.	-	Sequin	transcript	.	gene_id "R1_43"; transcript_id "R1_43_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8823107	8823225	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8823107	8823225	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8823558	8823639	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8823558	8823639	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8825658	8825741	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8825658	8825741	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8826539	8826627	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8826539	8826627	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8831062	8831143	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8831062	8831143	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8833123	8833230	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8833123	8833230	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8847460	8847643	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8847460	8847643	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8850137	8850173	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8851141	8851291	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8851141	8851291	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8854705	8854880	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8854705	8854880	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8855127	8855225	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8855127	8855225	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8857002	8857155	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8857002	8857155	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8857738	8857825	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8857738	8857825	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8860165	8860385	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8860165	8860385	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8863154	8863228	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8863154	8863228	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8866827	8866872	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8866827	8866872	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8867445	8867550	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8867445	8867550	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8869786	8869951	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8869786	8869951	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8871547	8871738	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8890605	8890752	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_2";
+chrIS	8919974	8920058	R1_43	.	-	Sequin	exon	.	gene_id "R1_43"; transcript_id "R1_43_1";
+chrIS	8945051	8945161	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8945051	9015138	R1_63	.	+	Sequin	gene	.	gene_id "R1_63"; gene_type "synthetic";
+chrIS	8945051	9015138	R1_63	.	+	Sequin	transcript	.	gene_id "R1_63"; transcript_id "R1_63_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8964884	8964944	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8969734	8969776	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8971398	8971455	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8971857	8971971	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8980094	8980194	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8982284	8982364	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8982990	8983028	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8983510	8983605	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8983740	8983826	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8984900	8985002	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8985752	8985992	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_2";
+chrIS	8985752	9014952	R1_63	.	+	Sequin	transcript	.	gene_id "R1_63"; transcript_id "R1_63_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	8988587	8988671	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8988587	8988671	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_2";
+chrIS	8989590	8989638	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8989590	8989638	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_2";
+chrIS	8990763	8990859	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8990763	8990859	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_2";
+chrIS	8992832	8992928	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8992832	8992928	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_2";
+chrIS	8996305	8996408	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8996305	8996408	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_2";
+chrIS	8996904	8996987	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8996904	8996987	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_2";
+chrIS	8999689	8999740	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8999689	8999740	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_2";
+chrIS	8999828	8999900	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	8999828	8999900	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_2";
+chrIS	9004519	9004618	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	9004519	9004618	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_2";
+chrIS	9007466	9007571	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	9007466	9007571	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_2";
+chrIS	9008298	9008391	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	9008298	9008391	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_2";
+chrIS	9009683	9009728	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	9009683	9009728	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_2";
+chrIS	9010152	9010245	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	9010152	9010245	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_2";
+chrIS	9012776	9012847	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	9012776	9012847	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_2";
+chrIS	9013888	9013949	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	9013888	9013949	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_2";
+chrIS	9014886	9014952	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_2";
+chrIS	9014886	9015138	R1_63	.	+	Sequin	exon	.	gene_id "R1_63"; transcript_id "R1_63_1";
+chrIS	9034678	9035211	R1_51	.	-	Sequin	exon	.	gene_id "R1_51"; transcript_id "R1_51_1";
+chrIS	9034678	9035211	R1_51	.	-	Sequin	exon	.	gene_id "R1_51"; transcript_id "R1_51_2";
+chrIS	9034678	9036233	R1_51	.	-	Sequin	transcript	.	gene_id "R1_51"; transcript_id "R1_51_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	9034678	9048093	R1_51	.	-	Sequin	gene	.	gene_id "R1_51"; gene_type "synthetic";
+chrIS	9034678	9048093	R1_51	.	-	Sequin	transcript	.	gene_id "R1_51"; transcript_id "R1_51_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	9035493	9035600	R1_51	.	-	Sequin	exon	.	gene_id "R1_51"; transcript_id "R1_51_1";
+chrIS	9035493	9035600	R1_51	.	-	Sequin	exon	.	gene_id "R1_51"; transcript_id "R1_51_2";
+chrIS	9035683	9035739	R1_51	.	-	Sequin	exon	.	gene_id "R1_51"; transcript_id "R1_51_1";
+chrIS	9035683	9035739	R1_51	.	-	Sequin	exon	.	gene_id "R1_51"; transcript_id "R1_51_2";
+chrIS	9036039	9036233	R1_51	.	-	Sequin	exon	.	gene_id "R1_51"; transcript_id "R1_51_2";
+chrIS	9044917	9045040	R1_51	.	-	Sequin	exon	.	gene_id "R1_51"; transcript_id "R1_51_1";
+chrIS	9048028	9048093	R1_51	.	-	Sequin	exon	.	gene_id "R1_51"; transcript_id "R1_51_1";
+chrIS	9133607	9133746	R1_53	.	+	Sequin	exon	.	gene_id "R1_53"; transcript_id "R1_53_1";
+chrIS	9133607	9287869	R1_53	.	+	Sequin	gene	.	gene_id "R1_53"; gene_type "synthetic";
+chrIS	9133607	9287869	R1_53	.	+	Sequin	transcript	.	gene_id "R1_53"; transcript_id "R1_53_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	9192124	9192188	R1_53	.	+	Sequin	exon	.	gene_id "R1_53"; transcript_id "R1_53_1";
+chrIS	9225302	9225549	R1_53	.	+	Sequin	exon	.	gene_id "R1_53"; transcript_id "R1_53_1";
+chrIS	9270062	9270302	R1_53	.	+	Sequin	exon	.	gene_id "R1_53"; transcript_id "R1_53_1";
+chrIS	9273055	9273282	R1_53	.	+	Sequin	exon	.	gene_id "R1_53"; transcript_id "R1_53_1";
+chrIS	9283532	9283613	R1_53	.	+	Sequin	exon	.	gene_id "R1_53"; transcript_id "R1_53_1";
+chrIS	9284467	9284862	R1_53	.	+	Sequin	exon	.	gene_id "R1_53"; transcript_id "R1_53_1";
+chrIS	9285484	9285613	R1_53	.	+	Sequin	exon	.	gene_id "R1_53"; transcript_id "R1_53_1";
+chrIS	9287405	9287869	R1_53	.	+	Sequin	exon	.	gene_id "R1_53"; transcript_id "R1_53_1";
+chrIS	9353175	9353385	R1_41	.	-	Sequin	exon	.	gene_id "R1_41"; transcript_id "R1_41_1";
+chrIS	9353175	9354087	R1_41	.	-	Sequin	exon	.	gene_id "R1_41"; transcript_id "R1_41_2";
+chrIS	9353175	9354398	R1_41	.	-	Sequin	gene	.	gene_id "R1_41"; gene_type "synthetic";
+chrIS	9353175	9354398	R1_41	.	-	Sequin	transcript	.	gene_id "R1_41"; transcript_id "R1_41_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	9353175	9354398	R1_41	.	-	Sequin	transcript	.	gene_id "R1_41"; transcript_id "R1_41_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	9353779	9353852	R1_41	.	-	Sequin	exon	.	gene_id "R1_41"; transcript_id "R1_41_1";
+chrIS	9354020	9354087	R1_41	.	-	Sequin	exon	.	gene_id "R1_41"; transcript_id "R1_41_1";
+chrIS	9354309	9354398	R1_41	.	-	Sequin	exon	.	gene_id "R1_41"; transcript_id "R1_41_2";
+chrIS	9354309	9354398	R1_41	.	-	Sequin	exon	.	gene_id "R1_41"; transcript_id "R1_41_1";
+chrIS	9407564	9407740	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9407564	9613170	R2_54	.	+	Sequin	transcript	.	gene_id "R2_54"; transcript_id "R2_54_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	9407564	9624102	R2_54	.	+	Sequin	gene	.	gene_id "R2_54"; gene_type "synthetic";
+chrIS	9407719	9407740	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_2";
+chrIS	9407719	9624102	R2_54	.	+	Sequin	transcript	.	gene_id "R2_54"; transcript_id "R2_54_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	9412302	9412378	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9412302	9412378	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_2";
+chrIS	9552545	9552605	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9552545	9552605	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_2";
+chrIS	9557472	9557802	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9557472	9557802	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_2";
+chrIS	9559325	9559449	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9559325	9559449	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_2";
+chrIS	9579656	9579865	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9583447	9583593	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9585659	9585804	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9588391	9588682	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9588842	9588960	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9592037	9592237	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9595752	9595901	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9596946	9597106	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9597213	9597296	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9603007	9603224	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9604963	9605146	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9606927	9607023	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9608352	9608458	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9609905	9609981	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9613122	9613170	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_1";
+chrIS	9623190	9624102	R2_54	.	+	Sequin	exon	.	gene_id "R2_54"; transcript_id "R2_54_2";
+chrIS	9715010	9715053	R1_42	.	+	Sequin	exon	.	gene_id "R1_42"; transcript_id "R1_42_2";
+chrIS	9715010	9715053	R1_42	.	+	Sequin	exon	.	gene_id "R1_42"; transcript_id "R1_42_1";
+chrIS	9715010	9767496	R1_42	.	+	Sequin	transcript	.	gene_id "R1_42"; transcript_id "R1_42_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	9715010	9767573	R1_42	.	+	Sequin	gene	.	gene_id "R1_42"; gene_type "synthetic";
+chrIS	9715010	9767573	R1_42	.	+	Sequin	transcript	.	gene_id "R1_42"; transcript_id "R1_42_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	9748907	9749074	R1_42	.	+	Sequin	exon	.	gene_id "R1_42"; transcript_id "R1_42_2";
+chrIS	9748907	9749074	R1_42	.	+	Sequin	exon	.	gene_id "R1_42"; transcript_id "R1_42_1";
+chrIS	9753629	9753834	R1_42	.	+	Sequin	exon	.	gene_id "R1_42"; transcript_id "R1_42_2";
+chrIS	9753629	9753834	R1_42	.	+	Sequin	exon	.	gene_id "R1_42"; transcript_id "R1_42_1";
+chrIS	9760856	9761013	R1_42	.	+	Sequin	exon	.	gene_id "R1_42"; transcript_id "R1_42_1";
+chrIS	9763219	9763356	R1_42	.	+	Sequin	exon	.	gene_id "R1_42"; transcript_id "R1_42_1";
+chrIS	9767307	9767496	R1_42	.	+	Sequin	exon	.	gene_id "R1_42"; transcript_id "R1_42_2";
+chrIS	9767307	9767573	R1_42	.	+	Sequin	exon	.	gene_id "R1_42"; transcript_id "R1_42_1";
+chrIS	9805054	9805525	R1_11	.	-	Sequin	exon	.	gene_id "R1_11"; transcript_id "R1_11_1";
+chrIS	9805054	9805525	R1_11	.	-	Sequin	exon	.	gene_id "R1_11"; transcript_id "R1_11_2";
+chrIS	9805054	9811630	R1_11	.	-	Sequin	transcript	.	gene_id "R1_11"; transcript_id "R1_11_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	9805054	9811824	R1_11	.	-	Sequin	gene	.	gene_id "R1_11"; gene_type "synthetic";
+chrIS	9805054	9811824	R1_11	.	-	Sequin	transcript	.	gene_id "R1_11"; transcript_id "R1_11_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	9808902	9809098	R1_11	.	-	Sequin	exon	.	gene_id "R1_11"; transcript_id "R1_11_2";
+chrIS	9811221	9811301	R1_11	.	-	Sequin	exon	.	gene_id "R1_11"; transcript_id "R1_11_2";
+chrIS	9811592	9811630	R1_11	.	-	Sequin	exon	.	gene_id "R1_11"; transcript_id "R1_11_2";
+chrIS	9811592	9811824	R1_11	.	-	Sequin	exon	.	gene_id "R1_11"; transcript_id "R1_11_1";
+chrIS	9903250	9903595	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_1";
+chrIS	9903250	9903595	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_2";
+chrIS	9903250	9932892	R2_60	.	-	Sequin	transcript	.	gene_id "R2_60"; transcript_id "R2_60_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	9903250	9932946	R2_60	.	-	Sequin	gene	.	gene_id "R2_60"; gene_type "synthetic";
+chrIS	9903250	9932946	R2_60	.	-	Sequin	transcript	.	gene_id "R2_60"; transcript_id "R2_60_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	9904339	9904481	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_1";
+chrIS	9904339	9904481	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_2";
+chrIS	9904568	9904688	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_1";
+chrIS	9904568	9904688	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_2";
+chrIS	9905129	9905315	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_1";
+chrIS	9905129	9905315	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_2";
+chrIS	9905698	9905822	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_1";
+chrIS	9905698	9905822	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_2";
+chrIS	9906002	9906127	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_1";
+chrIS	9906002	9906127	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_2";
+chrIS	9908372	9908538	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_2";
+chrIS	9909211	9909268	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_1";
+chrIS	9909211	9909268	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_2";
+chrIS	9911416	9911618	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_2";
+chrIS	9912089	9912119	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_2";
+chrIS	9913315	9913408	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_2";
+chrIS	9932857	9932892	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_2";
+chrIS	9932857	9932946	R2_60	.	-	Sequin	exon	.	gene_id "R2_60"; transcript_id "R2_60_1";
+chrIS	9941035	9941390	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_1";
+chrIS	9941035	9979807	R2_57	.	+	Sequin	gene	.	gene_id "R2_57"; gene_type "synthetic";
+chrIS	9941035	9979807	R2_57	.	+	Sequin	transcript	.	gene_id "R2_57"; transcript_id "R2_57_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	9941313	9941390	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_2";
+chrIS	9941313	9979687	R2_57	.	+	Sequin	transcript	.	gene_id "R2_57"; transcript_id "R2_57_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	9952142	9952284	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_2";
+chrIS	9955925	9956054	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_1";
+chrIS	9955925	9956054	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_2";
+chrIS	9958958	9959092	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_1";
+chrIS	9958958	9959092	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_2";
+chrIS	9960731	9960824	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_1";
+chrIS	9960731	9960824	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_2";
+chrIS	9964821	9964860	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_2";
+chrIS	9966506	9966530	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_2";
+chrIS	9971020	9971110	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_1";
+chrIS	9971020	9971110	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_2";
+chrIS	9971497	9971598	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_1";
+chrIS	9971497	9971598	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_2";
+chrIS	9978626	9978855	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_1";
+chrIS	9978626	9978855	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_2";
+chrIS	9979546	9979687	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_2";
+chrIS	9979546	9979807	R2_57	.	+	Sequin	exon	.	gene_id "R2_57"; transcript_id "R2_57_1";
+chrIS	10217767	10218434	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_2";
+chrIS	10217767	10233186	R1_12	.	-	Sequin	gene	.	gene_id "R1_12"; gene_type "synthetic";
+chrIS	10217767	10233186	R1_12	.	-	Sequin	transcript	.	gene_id "R1_12"; transcript_id "R1_12_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	10218061	10218434	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_1";
+chrIS	10218061	10233186	R1_12	.	-	Sequin	transcript	.	gene_id "R1_12"; transcript_id "R1_12_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	10219555	10219627	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_2";
+chrIS	10219555	10219627	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_1";
+chrIS	10220285	10220346	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_2";
+chrIS	10220285	10220346	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_1";
+chrIS	10221077	10221133	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_2";
+chrIS	10221077	10221133	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_1";
+chrIS	10222119	10222148	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_1";
+chrIS	10223147	10223180	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_2";
+chrIS	10223147	10223180	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_1";
+chrIS	10224651	10224711	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_2";
+chrIS	10224651	10224711	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_1";
+chrIS	10227006	10227100	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_2";
+chrIS	10227006	10227100	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_1";
+chrIS	10227795	10227881	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_2";
+chrIS	10227795	10227881	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_1";
+chrIS	10228692	10228794	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_1";
+chrIS	10229347	10229519	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_2";
+chrIS	10229347	10229519	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_1";
+chrIS	10229799	10229908	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_2";
+chrIS	10230358	10230421	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_2";
+chrIS	10230358	10230421	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_1";
+chrIS	10233077	10233186	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_2";
+chrIS	10233077	10233186	R1_12	.	-	Sequin	exon	.	gene_id "R1_12"; transcript_id "R1_12_1";
+chrIS	10375811	10376263	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_1";
+chrIS	10375811	10394934	R2_59	.	+	Sequin	gene	.	gene_id "R2_59"; gene_type "synthetic";
+chrIS	10375811	10394934	R2_59	.	+	Sequin	transcript	.	gene_id "R2_59"; transcript_id "R2_59_1"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	10376099	10376263	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_2";
+chrIS	10376099	10391944	R2_59	.	+	Sequin	transcript	.	gene_id "R2_59"; transcript_id "R2_59_2"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	10376108	10376263	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_3";
+chrIS	10376108	10394235	R2_59	.	+	Sequin	transcript	.	gene_id "R2_59"; transcript_id "R2_59_3"; gene_type "synthetic"; transcript_type "synthetic"
+chrIS	10379459	10379582	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_1";
+chrIS	10379459	10379582	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_2";
+chrIS	10379459	10379582	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_3";
+chrIS	10380834	10380897	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_1";
+chrIS	10380834	10380897	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_2";
+chrIS	10380834	10380897	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_3";
+chrIS	10382493	10382664	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_1";
+chrIS	10382493	10382664	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_2";
+chrIS	10382493	10382664	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_3";
+chrIS	10387047	10387195	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_1";
+chrIS	10387047	10387195	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_2";
+chrIS	10387047	10387195	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_3";
+chrIS	10388366	10388912	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_1";
+chrIS	10388366	10389391	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_2";
+chrIS	10389260	10389391	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_1";
+chrIS	10389260	10389391	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_3";
+chrIS	10389976	10390029	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_1";
+chrIS	10389976	10390029	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_2";
+chrIS	10389976	10390029	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_3";
+chrIS	10390347	10390403	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_1";
+chrIS	10390347	10390403	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_2";
+chrIS	10390347	10390403	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_3";
+chrIS	10391263	10391944	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_2";
+chrIS	10394052	10394235	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_3";
+chrIS	10394052	10394934	R2_59	.	+	Sequin	exon	.	gene_id "R2_59"; transcript_id "R2_59_1";

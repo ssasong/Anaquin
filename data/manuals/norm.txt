@@ -1,0 +1,36 @@
+norm - normalisation sequin spiked-in libraries using ladder sequins.
+
+<b>TOOL OPTIONS:</b>
+    Required:
+        -A1                              Input FASTQ file (first pair)
+        -A2                              Input FASTQ file (second pair)
+        -B1                              Input FASTQ file (first pair)
+        -B2                              Input FASTQ file (second pair)
+        -C1                              Input FASTQ file (first pair)
+        -C2                              Input FASTQ file (second pair)
+        -D1                              Input FASTQ file (first pair)
+        -D2                              Input FASTQ file (second pair)
+        -E1                              Input FASTQ file (first pair)
+        -E2                              Input FASTQ file (second pair)
+
+    Optional:
+        --report                        Generate automated report of sequin performance in library.
+        -o/--output                     Directory to which output files are written (default = output).
+        -t/--threads                    Number of threads used (default = 1).
+        --threshold                     Minimum fraction of kmers required to classify read as sequin-derived (default = 0.2).
+        --kmer                          K-mer length (default = 23).
+        --skip                          Assess every nth k-mer in read. Skipping more k-mers allows faster computation (default = 5).
+        -r/--resource_dir               Directory containing resource files (default = resources).
+
+<b>USAGE EXAMPLE:</b>
+    To normalize paired-end FASTQ libraries:
+    $ anaquin norm -A1 sample1_1.fq -A2 sample1_2.fq -B1 sample2_1.fq -B2 sample2_2.fq
+
+<b>OUTPUTS:</b>
+    norm_report.html               Output report describing sequin (and sample) performance in library (--report only).
+    norm_summary.txt               Summary statistics describing the normalization.
+    norm_library*_1*               Normalised first library in FASTQ/BAM file format.
+    norm_library*_1*               Normalised second library in FASTQ/BAM file format.
+    norm_kmers.txt                 Ladder k-mers used in normalisation.
+    norm_before.R                  Linear model of ladder sequins before calibration (--report only).
+    norm_after.R                   Linear model of ladder sequins after calibration (--report only).<<@@@@>>

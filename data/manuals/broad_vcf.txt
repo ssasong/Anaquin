@@ -1,0 +1,23 @@
+broad_vcf - Analysis of sequins variants (.vcf) in human whole genome sequencing workflow.
+
+<b>USAGE EXAMPLE:</b>
+$ anaquin broad_vcf -v merged.vcf
+
+<b>OPTIONS:</b>
+    Required
+        -v/--vcf                        Variant calls (.VCF) from sequin alignments to decoy chromosome (chrQ).
+    
+    Optional
+        -o/--output                     Directory to write output files to (default = output).
+        -r/--resource_dir               Directory containing resource files (default = resources).
+
+<b>OUTPUTS</b>
+    anaquin.log                             
+    report_vcf.txt                      Summary statistics describing sequencing and alignment performance.
+    sequins.vcf                         Annotation of all variants found on the decoy chromosome (no sample variants).
+
+<b>NOTE:</b>
+The broad_vcf tool is the second step in the analysis of sequins in human WGS (first step uses broad_bam). The broad_bam tool will:
+a. Accept a .VCF file containing variants called from alignments to the decoy chromsome (chrQ). 
+b. Variants should be called from a calibrated .BAM file (produced using broad_bam) to ensure that sequins alignment coverage is matched to corresponding human regions.
+c. Provide an output report with library details (including diagnostic performance).<<@@@@>>

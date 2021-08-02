@@ -1,0 +1,27 @@
+cancer - Calibration and analysis of somatic sequin alignments (.bam) in human whole genome sequencing workflow.
+
+<b>USAGE EXAMPLE:</b>
+$ anaquin cancer -b alignments.bam
+
+<b>OPTIONS:</b>
+        -b/--bam                        Alignment file (.BAM) to combined index comprising both human genome (hg38) and decoy chromosomes (chrQ*).
+        -o/--output                     Directory to write output files to (default = output).
+        -r/--resource_dir               Directory containing resource files (default = resources).
+        --sequin_alignment              Provide sequin alignment file (.BAM) that has been generated from sequin reads that have been mirrored (using split)
+                                        and then aligned to the human genome (e.g. hg38). Use with --sample_alignments option.
+        --sample_alignment              Provide sample alignments file (.BAM) that are generated from sample reads aligned to the human genome (e.g. hg38).
+                                        Use with --sequin_alignments option. 
+        --sample_bam                    Output a .BAM file containing sample alignments only.
+        --sequin_bam                    Output a .BAM file containing sequin alignments only.
+        --calibrated_sequin_bam         Output the calibrated .BAM file of sequin alignments.
+        --restrict_regions              Restrict calibration to custom regions (.BED) of interest in the human genome (e.g. gene panel targets).
+                                        Anaquin will limit analysis to the intersection of these regions with the sequin regions.
+
+<b>OUTPUTS</b>
+        anaquin.log                     Log file of anaquin processes.   
+        cancer_report.txt               Summary statistics describing sequencing and alignment performance.
+        merged.bam                      Alignment file comprising both sample and (calibrated) sequin alignment (only if chrQ*).
+        sample.bam                      Sample alignments (.BAM) (only with --sample_bam).
+        sequin.bam                      Sequin-derived alignments (.BAM) to the decoy chromosome (only with --sequin_bam).    
+        calibrated.bam                  Sequin-derived alignments that have been calibrated to match the coverage of corresponding human genome regions
+                                        (only with --calibrated_sequin_bam).<<@@@@>>
