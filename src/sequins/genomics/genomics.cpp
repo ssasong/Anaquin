@@ -876,11 +876,6 @@ GDecoyResults Anaquin::GDecoyAnalysis(const FileName &f1, const FileName &f2, co
                     const auto &name = j.second.id();
                     const auto before = r.before.r2.find(name);
                     
-                    if (name == "S0519_CV_079" || name == "S0427_CV_033" || name == "S0818_CL_231")
-                    {
-                        std::cout << 1234 << std::endl;
-                    }
-                 
                     const auto m1 = o.meth != CalibrateMethod::Custom ? o.meth : CalibrateMethod::Mean;
                     const auto m2 = o.meth != CalibrateMethod::Custom ? o.meth : CalibrateMethod::Mean;
 
