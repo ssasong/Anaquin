@@ -2,19 +2,11 @@
 
 **Anaquin** is a C++/R bioinformatics framework for quantitative controls in next-generation sequencing experiments.
 
-Repository for the R-package is hosted by Bioconductor and available at: https://github.com/sequinstandards/RAnaquin.
-
-This is a **beta software** as we are trying to work with the bioinformatics community. Please send us your suggestions (e.g. what do you want Anaquin to do?).
-
 You may need to rename the `data` directory to `resources` for resource bundle.
 
 ## Credits
 
 [Kallisto](https://github.com/pachterlab/kallisto) for indexing FASTA files.
-
-## Docker
-
-Docker image for Anaquin is available at https://hub.docker.com/r/sequins/anaquin.
 
 ## Compilation
 
