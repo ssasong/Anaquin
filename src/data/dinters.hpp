@@ -23,7 +23,10 @@ namespace Anaquin
 
                 // Percentile for the interval
                 Coverage p25, p50, p75;
-            
+                
+                // Percentile for the interval excluding zero coverage
+                Coverage p25NoZero, p50NoZero, p75NoZero;
+
                 // Arithmetic first moment
                 double mean;
             
@@ -393,7 +396,16 @@ namespace Anaquin
             stats.p25  = quant(stats.raws, 0.25);
             stats.p50  = quant(stats.raws, 0.50);
             stats.p75  = quant(stats.raws, 0.75);
+            
+            auto noZeros = std::vector<Coverage>();
+            
+            // copy only positive numbers:
+            std::copy_if (stats.raws.begin(), stats.raws.end(), std::back_inserter(noZeros), [](Coverage i){ return i > 0; } );
 
+            stats.p25NoZero = quant(noZeros, 0.25);
+            stats.p50NoZero = quant(noZeros, 0.50);
+            stats.p75NoZero = quant(noZeros, 0.75);
+            
             return stats;
         }
     };

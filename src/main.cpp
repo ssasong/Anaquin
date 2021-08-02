@@ -50,7 +50,7 @@ typedef std::string Value;
 
 static Build __ha__;
 
-static std::string version() { return "3.22.0"; }
+static std::string version() { return "3.23.0"; }
 
 /*
  * Options specified in the command line
